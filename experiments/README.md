@@ -8,7 +8,7 @@ To download our dataset, follow this link: <a>https://drive.google.com/drive/fol
 ![alt text](../images/benchmark.png "Benchmark")
 
 
-### Hyper-parameters used in these experiences:
+### Hyper-parameters used in these experiments:
 * lr = 1e-5
 * batch size = 16
 * epoch = 50
