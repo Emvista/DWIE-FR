@@ -1,0 +1,9 @@
+#ignore
+
+# folder
+data/
+
+# files
+*.json
+*.pickle
+
