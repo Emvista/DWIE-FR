@@ -1,0 +1,177 @@
+{
+    "id": "DW_2758555",
+    "content": "A Delicious Accompaniment for Wine\nA regular companion of the fall season's wines is a treat called Zwiebelkuchen, literally, onion cake. It is a one-crust pie, eaten in most German wine regions during the fall wine season.\nZwiebelkuchen is traditionally eaten with Federweisser, a young wine available in Germany in the fall. The link between the two is so strong that many Federweisser wines have a recipe for the onion cake on their labels. Here's a recipe for it: Ingredients: 1 packet yeast, active dry 1 teaspoon sugar 1 1/2 teaspoon salt 3 cups unbleached flour 1 tablespoon shortening 1 cup water (49 to 54 C / 120 to 130 F) 6 slices bacon -- diced 2 medium onions -- sliced 1/4 teaspoon cumin 1/2 teaspoon salt Pepper 1 egg yolk 1 cup sour cream Mix the yeast with the sugar, a teaspoon of salt and half a cup of flour. Blend in the shortening and warm water, then beat for two minutes. Add enough flour to make a soft dough, and then knead the dough until smooth and elastic, about five minutes. Place the dough in a lightly greased bowl, then cover it and let it rise in a warm place for 30 minutes. Pat the dough into a lightly greased 12-inch pizza pan or onto a lightly greased baking sheet. Press up the edges to make a slight rim. Fry the bacon until crisp and drain it on absorbent paper. Add onions to the bacon grease, and cook slowly until tender, but not brown. Sprinkle the onions, bacon, cumin, half a teaspoon of salt and pepper over the dough. Bake the cake at 204 C (400 F) for 20 minutes. Blend the egg yolk and sour cream and pour the mixture over the Zwiebelkuchen. Bake it for another 10 to 15 minutes, until the cake is golden brown and the sour cream has set. Serve warm or at room temperature with white wine.",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 100,
+            "end": 113,
+            "text": "Zwiebelkuchen",
+            "concept": 0
+        },
+        {
+            "begin": 175,
+            "end": 181,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 224,
+            "end": 237,
+            "text": "Zwiebelkuchen",
+            "concept": 0
+        },
+        {
+            "begin": 266,
+            "end": 278,
+            "text": "Federweisser",
+            "concept": 1,
+            "candidates": [
+                "Federweisser"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 306,
+            "end": 313,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 375,
+            "end": 387,
+            "text": "Federweisser",
+            "concept": 1,
+            "candidates": [
+                "Federweisser"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1580,
+            "end": 1593,
+            "text": "Zwiebelkuchen",
+            "concept": 0
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Zwiebelkuchen",
+            "keyword": true,
+            "count": 3,
+            "link": "Zwiebelkuchen",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Federweisser",
+            "keyword": true,
+            "count": 2,
+            "link": "Federweisser",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Germany",
+            "keyword": true,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 2
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000209",
+        "20000243",
+        "20000248"
+    ]
+}

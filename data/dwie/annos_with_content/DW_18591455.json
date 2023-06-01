@@ -1,0 +1,771 @@
+{
+    "id": "DW_18591455",
+    "content": "Number of fake euros in Germany at all-time high\nNew data show an all-time high in the number of counterfeit euros in Germany. But it's still not a huge problem: The average German would have to live for 800 years to come into possession of a single fake banknote.\nThe German central bank, or Bundesbank, has released a report saying that about 50,500 fake banknotes with a total value of 2.2 million euros ($2.4 million) had been registered in the first half of 2015. That's an increase of 31 percent over the second half of 2014, and it's two and a half times as many bogus banknotes as were registered two years earlier, in the second half of 2013. Also on Friday, the European Central Bank (ECB) said that worldwide 454,000 fake euro banknotes had been withdrawn from circulation in the first six months of 2015 - the second highest amount since the introduction of the euro, but still less than in the first half of last year. The Bundesbank examines about 15 billion banknotes each year, searching for counterfeits. Statistically, given the number of counterfeit notes it finds, that means there are about 12 fake banknotes in circulation per 10,000 residents of Germany. The same data can be used to work out that an average German would have to live for eight centuries in order to happen across a single fake euro banknote, according to Carl-Ludwig Thiele, who is the chief of the Bundesbank's cash provision section. Nevertheless, the counterfeiting trend has been sharply upward over the past couple of years, and so the Eurosystem and the police are determined to increase their efforts to shut down counterfeiters, the Bundesbank reported. A key measure has been the introduction of new banknotes that are more difficult to counterfeit - a second series that replaces the banknotes the eurozone has used since the year 2000. Redesigned 5- and 10-euro banknotes are already in circulation; a new 20-euro banknote will come off the presses starting November 25. \"The 20- and 50-euro banknotes of the first series were counterfeited particularly often,\" Thiele said. The data show that 41 percent of all counterfeit notes were 20-euro notes, and 48 percent were 50-euro notes. The number of counterfeit coins, in contrast, has declined sharply recently. In the first half of 2015, about 14,500 fake coins were found; in the second half of 2014, about 26,000 had been found. How to check a banknote's authenticity The Bundesbank warns retailers and others who handle a lot of cash that they should screen for counterfeit notes before accepting payments, because there is no compensation for fake banknotes. \"The authenticity of a banknote can be tested by a procedure of 'feel-see-tilt' quite readily,\" said Thiele. In examining a banknote, several security features should be scanned, because the authenticity of euro banknotes can best be verified in the interplay of the various features: One can feel the texture of embossed lettering on their front side, as follows: In the older (first) euro banknote series, one finds the legend \"BCE ECB EZB EKT EKP\" at the top. In the newer banknotes, one finds the legend \"BCE ECB EЦБ EZB EKP EKT EKB BĊE EBC\" and additional stripes on the right and left edges. The watermarks can be seen in the unprinted area by holding a banknote up to the light. The hologram image changes when the banknote is tilted. On the back, pearly-sheened stripes (in denominations up to 20 euros) or shifting colors of the right value number (denominations from 50 euros upward) can be checked by tilting the banknote. In addition, the new \"Europe series\" euro banknotes have an \"emerald number\": By tilting the banknote, one can see the color change, and a bright bar is seen to move up or down. When examining a suspect banknote, it's helpful to compare it to an undoubtedly genuine banknote - in particular, one that was obtained by withdrawal from an ATM.",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 24,
+            "end": 31,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 118,
+            "end": 125,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 174,
+            "end": 180,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 269,
+            "end": 275,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 293,
+            "end": 303,
+            "text": "Bundesbank",
+            "concept": 1,
+            "candidates": [
+                "Deutsche_Bundesbank"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 389,
+            "end": 406,
+            "text": "2.2 million euros",
+            "concept": 5
+        },
+        {
+            "begin": 408,
+            "end": 420,
+            "text": "$2.4 million",
+            "concept": 6
+        },
+        {
+            "begin": 463,
+            "end": 467,
+            "text": "2015",
+            "concept": 7
+        },
+        {
+            "begin": 526,
+            "end": 530,
+            "text": "2014",
+            "concept": 8
+        },
+        {
+            "begin": 646,
+            "end": 650,
+            "text": "2013",
+            "concept": 9
+        },
+        {
+            "begin": 660,
+            "end": 666,
+            "text": "Friday",
+            "concept": 10
+        },
+        {
+            "begin": 672,
+            "end": 693,
+            "text": "European Central Bank",
+            "concept": 2,
+            "candidates": [
+                "European_Central_Bank",
+                "List_of_Presidents_of_the_European_Central_Bank"
+            ],
+            "scores": [
+                0.9987228607918263,
+                0.001277139208173691
+            ]
+        },
+        {
+            "begin": 695,
+            "end": 698,
+            "text": "ECB",
+            "concept": 2,
+            "candidates": [
+                "England_and_Wales_Cricket_Board",
+                "European_Central_Bank",
+                "Block_cipher_mode_of_operation",
+                "Europe_Card_Bus",
+                "Écija_Balompié",
+                "Eastern_Cape_Division",
+                "Cricket_Wales",
+                "ECB"
+            ],
+            "scores": [
+                0.5243243243243243,
+                0.43783783783783786,
+                0.021621621621621623,
+                0.005405405405405406,
+                0.002702702702702703,
+                0.002702702702702703,
+                0.002702702702702703,
+                0.002702702702702703
+            ]
+        },
+        {
+            "begin": 811,
+            "end": 815,
+            "text": "2015",
+            "concept": 7
+        },
+        {
+            "begin": 936,
+            "end": 946,
+            "text": "Bundesbank",
+            "concept": 1,
+            "candidates": [
+                "Deutsche_Bundesbank"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1169,
+            "end": 1176,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1232,
+            "end": 1238,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 1346,
+            "end": 1364,
+            "text": "Carl-Ludwig Thiele",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1390,
+            "end": 1400,
+            "text": "Bundesbank",
+            "concept": 1,
+            "candidates": [
+                "Deutsche_Bundesbank"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1532,
+            "end": 1542,
+            "text": "Eurosystem",
+            "concept": 11,
+            "candidates": [
+                "Eurosystem"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1632,
+            "end": 1642,
+            "text": "Bundesbank",
+            "concept": 1,
+            "candidates": [
+                "Deutsche_Bundesbank"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1832,
+            "end": 1836,
+            "text": "2000",
+            "concept": 12
+        },
+        {
+            "begin": 1856,
+            "end": 1863,
+            "text": "10-euro",
+            "concept": 13
+        },
+        {
+            "begin": 1908,
+            "end": 1915,
+            "text": "20-euro",
+            "concept": 14
+        },
+        {
+            "begin": 1960,
+            "end": 1971,
+            "text": "November 25",
+            "concept": 15
+        },
+        {
+            "begin": 1986,
+            "end": 1993,
+            "text": "50-euro",
+            "concept": 16
+        },
+        {
+            "begin": 2064,
+            "end": 2070,
+            "text": "Thiele",
+            "concept": 3,
+            "candidates": [
+                "Johannes_Thiele_(zoologist)",
+                "Bob_Thiele",
+                "Timmy_Thiele",
+                "Johannes_Thiele_(chemist)",
+                "Thiele_Highway",
+                "Thorvald_N._Thiele",
+                "Edwin_R._Thiele",
+                "Thiele_(retail_opticians)",
+                "Holger_Thiele",
+                "Annekatrin_Thiele",
+                "Thiele_(Aar)",
+                "Gerhard_Thiele"
+            ],
+            "scores": [
+                0.7761194029850746,
+                0.05223880597014925,
+                0.029850746268656716,
+                0.029850746268656716,
+                0.022388059701492536,
+                0.022388059701492536,
+                0.022388059701492536,
+                0.014925373134328358,
+                0.007462686567164179,
+                0.007462686567164179,
+                0.007462686567164179,
+                0.007462686567164179
+            ]
+        },
+        {
+            "begin": 2137,
+            "end": 2144,
+            "text": "20-euro",
+            "concept": 14
+        },
+        {
+            "begin": 2172,
+            "end": 2179,
+            "text": "50-euro",
+            "concept": 16
+        },
+        {
+            "begin": 2285,
+            "end": 2289,
+            "text": "2015",
+            "concept": 7
+        },
+        {
+            "begin": 2349,
+            "end": 2353,
+            "text": "2014",
+            "concept": 8
+        },
+        {
+            "begin": 2427,
+            "end": 2437,
+            "text": "Bundesbank",
+            "concept": 1,
+            "candidates": [
+                "Deutsche_Bundesbank"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2717,
+            "end": 2723,
+            "text": "Thiele",
+            "concept": 3,
+            "candidates": [
+                "Johannes_Thiele_(zoologist)",
+                "Bob_Thiele",
+                "Timmy_Thiele",
+                "Johannes_Thiele_(chemist)",
+                "Thiele_Highway",
+                "Thorvald_N._Thiele",
+                "Edwin_R._Thiele",
+                "Thiele_(retail_opticians)",
+                "Holger_Thiele",
+                "Annekatrin_Thiele",
+                "Thiele_(Aar)",
+                "Gerhard_Thiele"
+            ],
+            "scores": [
+                0.7761194029850746,
+                0.05223880597014925,
+                0.029850746268656716,
+                0.029850746268656716,
+                0.022388059701492536,
+                0.022388059701492536,
+                0.022388059701492536,
+                0.014925373134328358,
+                0.007462686567164179,
+                0.007462686567164179,
+                0.007462686567164179,
+                0.007462686567164179
+            ]
+        },
+        {
+            "begin": 3418,
+            "end": 3426,
+            "text": "20 euros",
+            "concept": 17
+        },
+        {
+            "begin": 3493,
+            "end": 3501,
+            "text": "50 euros",
+            "concept": 18
+        },
+        {
+            "begin": 3572,
+            "end": 3578,
+            "text": "Europe",
+            "concept": 19
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Germany",
+            "keyword": true,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Bundesbank",
+            "keyword": true,
+            "count": 5,
+            "link": "Deutsche_Bundesbank",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "European Central Bank",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Carl-Ludwig Thiele",
+            "keyword": false,
+            "count": 3,
+            "link": "wikidata:Q1036557",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "German",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "2.2 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "$2.4 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "2015",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "2014",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "2013",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Eurosystem",
+            "keyword": false,
+            "count": 1,
+            "link": "Eurosystem",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "2000",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "10-euro",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "20-euro",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "November 25",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "50-euro",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "20 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "50 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "meta::todo"
+            ]
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "European_Central_Bank",
+            "tags": []
+        },
+        {
+            "concept": 21,
+            "keyword": false,
+            "count": 0,
+            "link": "European_Union",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "agency_of-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "institution_of",
+            "o": 21
+        },
+        {
+            "s": 2,
+            "p": "part_of",
+            "o": 21
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 0
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000097"
+    ]
+}

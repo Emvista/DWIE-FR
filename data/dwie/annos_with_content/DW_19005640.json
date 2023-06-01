@@ -1,0 +1,533 @@
+{
+    "id": "DW_19005640",
+    "content": "German youth ditch enviro interests for economic woes\nGermany's position as an eco-pioneer could be under threat. A new government survey has found that the country's current generation of 14- to 25-year-olds are less worried about the environment than their elders were.\nYoung Germans are losing interest in environmental issues as they fear for their economic security, according to a government study released on Tuesday. Good living standards and opportunities for self-development are more important to young people than sustainable ecology, according to a report produced by the UBA, Germany's main environmental protection agency, in collobaration with the Environment Ministry. Only 21 percent of 14- to 25-year-olds consider an \"intact environment\" or the \"chance to enjoy nature\" important to living a good life, according to the study, which was based on a survey and focus group interviews. More important factors for a good life include belonging to a family or a community (71 percent), a high standard of living (48 percent) and having the chance to express oneself (39 percent). \"Young people are interested in the environment and do consider an intact nature also important for a good life, but not to the same extent as older people,\" UBA President Maria Krautzberger said, suggesting that branded clothing and electronic products are of more interest to young people. Apathy mixed with worry Despite the newfound eco-apathy, young people's lifestyles are more likely to be environmentally friendly than older people's - whether by accident or design. \"They move around the city and the country in an intelligent way,\" said Krautzberger. \"They use the bike, bus and train, or go on foot; cars don't play nearly as big a role as for adults.\" \"Of course the environment is very important, and I agree that we should try to preserve it, but the fact is that it isn't the highest priority for a lot of people,\" one 15-year-old told the researchers. \"I think it's somehow natural that things like happiness and health for example are more important than some aspects of the environment.\" Though young people rank the environment as low on their list of priorities, it seems that they are aware that the environment is in a bad state - particularly in the rest of the world. Some 94 percent of young people said that the state of the environment worldwide was either \"bad\" or \"very bad,\" while only 30 percent said this of the environment in Germany. Young people are also aware that the lifestyles of people in industrialized nations have an effect on the environment in the rest of the world: Some 84 percent said that high-consumption lifestyles such as those enjoyed in many European countries are at least partly responsible for environmental problems in poorer nations. This appears to have given many a pessimistic outlook. \"It'll probably become more negative in the future,\" one 16-year-old told the study. \"It's true that humanity is getting more conscious of the fact that it's getting worse, and is always looking for alternatives, for example to fossil fuels. But it'll always be a fifty-fifty situation, because something will make it worse, and something else will come along that will make it a bit better, but then it'll get worse again.\" \"I'm aware that my prosperity is based on the exploitation of the environment or the exploitation of other people,\" a respondent said. Economic anxiety Anxiety about the future economy clearly weighs heavier on the minds of young Germans than ecology - and apparently there is also an increased awareness of market pressures. \"The environment and nature do not play a significant role in young people's everyday lives,\" the study concluded. \"Increased pressure to perform, educational pressure and uncertain career perspectives are more pressing challenges.\" But, balanced with worries about prosperity, there was also a concern about the environmental impact of continual economic growth. A majority (69 percent) agreed with the statement, \"When I see that our economy continuing to grow year by year, I wonder: how long can that go well?\" But at the same time, nearly half - 49 percent - also believed that economic growth would actually be necessary to combating climate change. In other words, the study found that young German are stuck between twin anxieties. \"Young people are caught in a dilemma between skepticism toward economic growth and concerns about prosperity,\" the study concluded. \"They display an average level of skepticism toward growth combined with greater-than-average concerns about prosperity. In addition, among young people there is a widespread conviction that ecological and social challenges can only be overcome with growth and prosperity.\"",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 54,
+            "end": 61,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 278,
+            "end": 285,
+            "text": "Germans",
+            "concept": 5
+        },
+        {
+            "begin": 416,
+            "end": 423,
+            "text": "Tuesday",
+            "concept": 6
+        },
+        {
+            "begin": 585,
+            "end": 588,
+            "text": "UBA",
+            "concept": 1,
+            "candidates": [
+                "Ubá",
+                "University_of_Buenos_Aires",
+                "Byblos_Club",
+                "United_Bank_for_Africa",
+                "Universal_Basketball_Association",
+                "Askira/Uba",
+                "Uba_River",
+                "USM_Bel_Abbès",
+                "UBA_protein_domain",
+                "UBA_Pro_Basketball_League",
+                "União_Agrícola_Barbarense_Futebol_Clube",
+                "Ubang_language",
+                "United_Baloch_Army",
+                "Uba"
+            ],
+            "scores": [
+                0.352112676056338,
+                0.2676056338028169,
+                0.09859154929577464,
+                0.07042253521126761,
+                0.056338028169014086,
+                0.028169014084507043,
+                0.028169014084507043,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521
+            ]
+        },
+        {
+            "begin": 590,
+            "end": 597,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 664,
+            "end": 684,
+            "text": "Environment Ministry",
+            "concept": 2,
+            "candidates": [
+                "Ministry_of_the_Environment_(Japan)",
+                "Federal_Ministry_of_the_Environment,_Nature_Conservation_and_Nuclear_Safety",
+                "Ministry_of_Environment_(Pakistan)",
+                "Ministry_of_Environmental_Protection_(Israel)",
+                "Ministry_of_Environment_(Peru)",
+                "Minister_of_Environment_and_Climate_Change_(Canada)",
+                "Environment_minister",
+                "Ministry_of_the_Environment,_Conservation_and_Parks",
+                "Ministry_of_Ecology_and_Natural_Resources_(Ukraine)"
+            ],
+            "scores": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.08333333333333333,
+                0.08333333333333333,
+                0.08333333333333333,
+                0.08333333333333333,
+                0.08333333333333333,
+                0.08333333333333333
+            ]
+        },
+        {
+            "begin": 1253,
+            "end": 1256,
+            "text": "UBA",
+            "concept": 1,
+            "candidates": [
+                "Ubá",
+                "University_of_Buenos_Aires",
+                "Byblos_Club",
+                "United_Bank_for_Africa",
+                "Universal_Basketball_Association",
+                "Askira/Uba",
+                "Uba_River",
+                "USM_Bel_Abbès",
+                "UBA_protein_domain",
+                "UBA_Pro_Basketball_League",
+                "União_Agrícola_Barbarense_Futebol_Clube",
+                "Ubang_language",
+                "United_Baloch_Army",
+                "Uba"
+            ],
+            "scores": [
+                0.352112676056338,
+                0.2676056338028169,
+                0.09859154929577464,
+                0.07042253521126761,
+                0.056338028169014086,
+                0.028169014084507043,
+                0.028169014084507043,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.014084507042253521
+            ]
+        },
+        {
+            "begin": 1257,
+            "end": 1266,
+            "text": "President",
+            "concept": 7
+        },
+        {
+            "begin": 1267,
+            "end": 1285,
+            "text": "Maria Krautzberger",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1642,
+            "end": 1654,
+            "text": "Krautzberger",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2454,
+            "end": 2461,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2691,
+            "end": 2699,
+            "text": "European",
+            "concept": 8
+        },
+        {
+            "begin": 3498,
+            "end": 3505,
+            "text": "Germans",
+            "concept": 5
+        },
+        {
+            "begin": 4293,
+            "end": 4299,
+            "text": "German",
+            "concept": 4
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Germany",
+            "keyword": true,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "UBA",
+            "keyword": true,
+            "count": 2,
+            "link": "Umweltbundesamt",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Environment Ministry",
+            "keyword": true,
+            "count": 1,
+            "link": "Federal_Ministry_of_the_Environment,_Nature_Conservation_and_Nuclear_Safety",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Maria Krautzberger",
+            "keyword": true,
+            "count": 2,
+            "link": "wikidata:Q1896040",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Germans",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "agency_of-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "agency_of-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "agency_of-x",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "agency_of-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "ministry_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 0
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "06000000",
+        "20000418",
+        "20000419",
+        "20000423"
+    ]
+}

@@ -1,0 +1,1840 @@
+{
+    "id": "DW_19422327",
+    "content": "Social media and breaking news: Keep calm and don't retweet everything you see\nTweets, Facebook Live and Periscope feeds can offer useful insights into breaking news events, but if they are not used carefully, they can turn already tense moments into downright panic.\nIt was a Friday evening in Munich and many people were on their way home from work or shopping for the weekend. All of a sudden, smartphones started beeping with tweets and breaking news alerts. Friends whatsapped each other and very quickly a now frighteningly familiar situation became apparent: there was an attack underway in a major European city. This time it was at the Olympia shopping center in Munich. Just like a week ago in Nice, France, anyone on Twitter, Facebook, Periscope or other social media networks received instant updates, pictures and videos of what was happening on the ground at that very moment. It's become commonplace in our digital age to turn to social media for information of any kind - even more so when it comes to breaking news. That's because hardly a news event takes place without eyewitnesses recording developments and sharing them instantaneously across social platforms. Violent and shocking events such as the shooting in Munich or last week's terror attack in Nice are no exception. In fact it is exactly in such situations that social media shows its greatest strengths and weaknesses. Speed and eyewitness perspectives When it comes to speed, reach and mobility, social networks have an undisputed advantage over other media. Given an internet connection, users can easily upload photos and videos of what they experience in real-time, regardless of where they are. And these have the potential to be seen by millions far away from the original uploader. If used wisely, this eyewitness social media content can give the public good and useful details. During the course of Friday's attack in Munich, many social media users did exactly that. Those who were at or near the shopping center when the shooting broke out, posted content and provided details of the location and current situation. By doing so they informed others of what was going on and possibly helped people avoid dangerous situations. One of the very early photos taken in front of the shopping center is by Timm Kraeft. His tweet indicates in matter-of-fact terms the location and extent of the police blockade. Another example is the activation of catastrophe warning notices, which alert people to dangers in their area. When a user in a Munich taxi saw a warning flash up on the board computer she photographed and shared it, thereby alerting her followers to the escalating situation in the neighborhood of Stachus. The police and public offices also took to social media to inform people of developments, such as which areas to avoid or details about train cancellations. Munich police were particularly active on Twitter, posting updates in at least four languages, keeping its audience abreast of all that was happening. Direct assistance Beyond its informational value, content shared on Twitter and other platforms can provide direct assistance to victims or others in need. One trend that has sadly become all too familiar is the use of the hashtag #PortesOuvertes or \"open doors.\" This term first appeared after the Paris attacks in November 2015, when residents opened up their homes and offered a place to stay for those stranded in the city. Residents in Brussels and Nice made the same gesture and now the German equivalent #OffeneTür is spreading across Twitter users in Munich. This gesture and other help initiatives from Munich natives, such as this one to donate blood or anything else needed by the victims, are typical of the unifying power social media can have during and after a tragic event. Think before retweeting But tweets and live video feeds have their limits and can at times be a veritable source of harm during breaking news events. Amid the chaos and with emotions running high, users may share indiscriminately, as images flood their feeds with scenes of death and bloodshed. Some have good intentions and are simply seeking to inform others about the dimensions of the news. Others may more cynically seek to boost the numbers on their profiles or attract attention by sharing shocking images. Whatever the case, in these moments, it has become a regrettable habit for social media users – on Twitter in particular – to spread unverified content from unreliable sources. Needless to say, only minutes after the news broke in Munich, this type of content was already abundant online. Publishing fake, manipulated or contextually wrong material is unhelpful for those seeking information, but it is also insidious. Rumors are wildfires that are difficult to put out and traditional news sources or official channels, such as police departments, subsequently struggle to communicate verified information to the public, as it gets lost under the flurry of false information. The Munich police Twitter account told followers in no uncertain terms that sharing photos and videos of gunfire on social media was not acceptable. The police department called on users to report such content and even offered an upload tool so users could send it directly to the police. Spreading these rumors across the social networks not only complicates the job of security officials, it can be very unsettling to those who may be near a scene of crime. As one Twitter user pointed out, \"The people in Munich also have internet and are scared crazy by your rumors. Just stop it.\" Spreading terror is what the terrorists want Even verified content should be shared with extreme caution. Publishing pictures or videos of a crime scene or, worse still, of a crime as it takes place, poses a particular problem: Terrorists seek publicity; it is in the very nature of their action. They want you to see what they are doing, they want images of it to be spread and watched so as to frighten people. Sharing such content amounts to giving these people and organizations publicity and thus playing into their hands. Christian Christensen, a professor for journalism and a specialist on social media at Stockholm University, tweeted a warning along these lines in the hours following the terror attack in Nice. If you spread violent images, he wrote, \"accept you are doing what the terrorists want.\" Out of respect for the victims After events in Paris, Brussels, Nice and now Munich, one of the first reflexes of authorities is to ask the public not to share these images, if only out of respect for the victims and their families. When the police in Nice began seeing graphic content shared on Twitter they told people: \"Out of respect for the victims and their families, do not take part in spreading pictures or videos of the crime scene.\" The Munich police tweeted an adamant appeal to people sharing images of the victims: Christian Christensen put it quite succinctly in his tweet after the attack in Nice: Don't undermine the police Another problem with sharing live footage from a crime scene or on-going police operation is that the perpetrators themselves may see this very content and thus learn details about an investigation, hindering the working of the authorities. In Munich, police repeatedly posted urgent message asking the public to refrain from sharing such content, even tweeting it in several languages. Violent breaking news events are a difficult time for all, but it is especially so for those directly affected and for law enforcement agents. If there is one thing social media users users can and should do during this time, it is simply to stop and think about what impact a retweet, a like or a share would have before helping it go viral.",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 87,
+            "end": 100,
+            "text": "Facebook Live",
+            "concept": 5,
+            "candidates": [
+                "Facebook_Live",
+                "Facebook_live",
+                "Facebook",
+                "List_of_Facebook_features"
+            ],
+            "scores": [
+                0.6826923076923077,
+                0.19230769230769232,
+                0.08653846153846154,
+                0.038461538461538464
+            ]
+        },
+        {
+            "begin": 105,
+            "end": 114,
+            "text": "Periscope",
+            "concept": 3,
+            "candidates": [
+                "Periscope",
+                "Periscope_(app)",
+                "Periscope_(arcade_game)",
+                "Periscope_(art_gallery)",
+                "Periscope_(album)"
+            ],
+            "scores": [
+                0.7551546391752577,
+                0.211340206185567,
+                0.028350515463917526,
+                0.002577319587628866,
+                0.002577319587628866
+            ]
+        },
+        {
+            "begin": 277,
+            "end": 283,
+            "text": "Friday",
+            "concept": 6
+        },
+        {
+            "begin": 295,
+            "end": 301,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 606,
+            "end": 614,
+            "text": "European",
+            "concept": 7
+        },
+        {
+            "begin": 645,
+            "end": 652,
+            "text": "Olympia",
+            "concept": 0,
+            "candidates": [
+                "Olympia,_Greece",
+                "Olympia,_Washington",
+                "Olympia_(Paris)",
+                "Olympia,_London",
+                "Olympia_(Manet)",
+                "Olympia_(Helsingborg)",
+                "Olympia_(1938_film)",
+                "Olympia_FC_Warriors",
+                "Opel_Olympia",
+                "Olympia_F.C._(Dublin)",
+                "Olympia_Theatre,_Dublin",
+                "Olympia_(Bryan_Ferry_album)",
+                "Olympia_(horse)",
+                "Olympia_(comics)",
+                "USS_Olympia_(C-6)",
+                "Episcopal_Diocese_of_Olympia"
+            ],
+            "scores": [
+                0.2537243947858473,
+                0.25,
+                0.1196461824953445,
+                0.10893854748603352,
+                0.036312849162011177,
+                0.03445065176908752,
+                0.03445065176908752,
+                0.025139664804469275,
+                0.01722532588454376,
+                0.012104283054003724,
+                0.009776536312849162,
+                0.008379888268156424,
+                0.0074487895716946,
+                0.0074487895716946,
+                0.00558659217877095,
+                0.004189944134078212
+            ]
+        },
+        {
+            "begin": 672,
+            "end": 678,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 704,
+            "end": 708,
+            "text": "Nice",
+            "concept": 8,
+            "candidates": [
+                "Nice",
+                "OGC_Nice",
+                "Open_de_Nice_Côte_d'Azur",
+                "National_Institute_for_Health_and_Care_Excellence",
+                "Nice_Observatory",
+                "Gare_de_Nice-Ville",
+                "Nice_Côte_d'Azur_Airport",
+                "Rugby_Nice_Côte_d'Azur_Université-Racing",
+                "County_of_Nice",
+                "Nice,_California",
+                "Treaty_of_Nice",
+                "Roman_Catholic_Diocese_of_Nice",
+                "Nice_(Unix)",
+                "Nassau_Inter-County_Express",
+                "Nice_(Rollins_Band_album)",
+                "Nice._(Puffy_AmiYumi_album)"
+            ],
+            "scores": [
+                0.7402896642527979,
+                0.1673798551678736,
+                0.018104015799868336,
+                0.014812376563528637,
+                0.010697827518104016,
+                0.004937458854509546,
+                0.003949967083607637,
+                0.003620803159973667,
+                0.003127057274522712,
+                0.0029624753127057276,
+                0.002139565503620803,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0014812376563528638
+            ]
+        },
+        {
+            "begin": 710,
+            "end": 716,
+            "text": "France",
+            "concept": 9,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 728,
+            "end": 735,
+            "text": "Twitter",
+            "concept": 1,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 737,
+            "end": 745,
+            "text": "Facebook",
+            "concept": 2,
+            "candidates": [
+                "Facebook",
+                "Facebook_Platform",
+                "Censorship_of_Facebook",
+                "Social-network_game",
+                "Facebook_Watch",
+                "Facebook_Home",
+                "Facebook_Messenger",
+                "Facebook_Live",
+                "List_of_Facebook_features",
+                "YouTube",
+                "Instagram",
+                "Initial_public_offering_of_Facebook",
+                "Google"
+            ],
+            "scores": [
+                0.9975667305707123,
+                0.0006636189352602861,
+                0.0005161480607580003,
+                0.0003686771862557145,
+                0.0001474708745022858,
+                0.0001474708745022858,
+                0.0001474708745022858,
+                7.37354372511429e-05,
+                7.37354372511429e-05,
+                7.37354372511429e-05,
+                7.37354372511429e-05,
+                7.37354372511429e-05,
+                7.37354372511429e-05
+            ]
+        },
+        {
+            "begin": 747,
+            "end": 756,
+            "text": "Periscope",
+            "concept": 3,
+            "candidates": [
+                "Periscope",
+                "Periscope_(app)",
+                "Periscope_(arcade_game)",
+                "Periscope_(art_gallery)",
+                "Periscope_(album)"
+            ],
+            "scores": [
+                0.7551546391752577,
+                0.211340206185567,
+                0.028350515463917526,
+                0.002577319587628866,
+                0.002577319587628866
+            ]
+        },
+        {
+            "begin": 1234,
+            "end": 1240,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 1273,
+            "end": 1277,
+            "text": "Nice",
+            "concept": 8,
+            "candidates": [
+                "Nice",
+                "OGC_Nice",
+                "Open_de_Nice_Côte_d'Azur",
+                "National_Institute_for_Health_and_Care_Excellence",
+                "Nice_Observatory",
+                "Gare_de_Nice-Ville",
+                "Nice_Côte_d'Azur_Airport",
+                "Rugby_Nice_Côte_d'Azur_Université-Racing",
+                "County_of_Nice",
+                "Nice,_California",
+                "Treaty_of_Nice",
+                "Roman_Catholic_Diocese_of_Nice",
+                "Nice_(Unix)",
+                "Nassau_Inter-County_Express",
+                "Nice_(Rollins_Band_album)",
+                "Nice._(Puffy_AmiYumi_album)"
+            ],
+            "scores": [
+                0.7402896642527979,
+                0.1673798551678736,
+                0.018104015799868336,
+                0.014812376563528637,
+                0.010697827518104016,
+                0.004937458854509546,
+                0.003949967083607637,
+                0.003620803159973667,
+                0.003127057274522712,
+                0.0029624753127057276,
+                0.002139565503620803,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0014812376563528638
+            ]
+        },
+        {
+            "begin": 1889,
+            "end": 1895,
+            "text": "Friday",
+            "concept": 6
+        },
+        {
+            "begin": 1908,
+            "end": 1914,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 2290,
+            "end": 2301,
+            "text": "Timm Kraeft",
+            "concept": 10,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2523,
+            "end": 2529,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 2694,
+            "end": 2701,
+            "text": "Stachus",
+            "concept": 11,
+            "candidates": [
+                "Karlsplatz_(Stachus)",
+                "Munich_Karlsplatz_station"
+            ],
+            "scores": [
+                0.9166666666666666,
+                0.08333333333333333
+            ]
+        },
+        {
+            "begin": 2860,
+            "end": 2866,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 2902,
+            "end": 2909,
+            "text": "Twitter",
+            "concept": 1,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 3079,
+            "end": 3086,
+            "text": "Twitter",
+            "concept": 1,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 3310,
+            "end": 3315,
+            "text": "Paris",
+            "concept": 12,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 3327,
+            "end": 3340,
+            "text": "November 2015",
+            "concept": 13
+        },
+        {
+            "begin": 3452,
+            "end": 3460,
+            "text": "Brussels",
+            "concept": 14,
+            "candidates": [
+                "Brussels",
+                "City_of_Brussels",
+                "R.W.D.M._Brussels_F.C.",
+                "King_Baudouin_Stadium",
+                "Brussels_Airport",
+                "Memorial_Van_Damme",
+                "Brussels-South_railway_station",
+                "Donnay_Indoor_Championships",
+                "Arrondissement_of_Brussels",
+                "Brussels,_Ontario",
+                "Belgian_Open_Championships",
+                "Free_University_of_Brussels",
+                "Brussels,_Illinois",
+                "Brussels,_Wisconsin",
+                "Trams_in_Brussels",
+                "Brussels_and_the_European_Union"
+            ],
+            "scores": [
+                0.9528857479387515,
+                0.009069493521790341,
+                0.0055948174322732625,
+                0.0042991755005889285,
+                0.003297997644287397,
+                0.0030035335689045936,
+                0.0028857479387514725,
+                0.0028268551236749115,
+                0.002237926972909305,
+                0.0013545347467608952,
+                0.001177856301531213,
+                0.0008244994110718492,
+                0.0007656065959952886,
+                0.0006478209658421672,
+                0.0006478209658421672,
+                0.0004711425206124853
+            ]
+        },
+        {
+            "begin": 3465,
+            "end": 3469,
+            "text": "Nice",
+            "concept": 8,
+            "candidates": [
+                "Nice",
+                "OGC_Nice",
+                "Open_de_Nice_Côte_d'Azur",
+                "National_Institute_for_Health_and_Care_Excellence",
+                "Nice_Observatory",
+                "Gare_de_Nice-Ville",
+                "Nice_Côte_d'Azur_Airport",
+                "Rugby_Nice_Côte_d'Azur_Université-Racing",
+                "County_of_Nice",
+                "Nice,_California",
+                "Treaty_of_Nice",
+                "Roman_Catholic_Diocese_of_Nice",
+                "Nice_(Unix)",
+                "Nassau_Inter-County_Express",
+                "Nice_(Rollins_Band_album)",
+                "Nice._(Puffy_AmiYumi_album)"
+            ],
+            "scores": [
+                0.7402896642527979,
+                0.1673798551678736,
+                0.018104015799868336,
+                0.014812376563528637,
+                0.010697827518104016,
+                0.004937458854509546,
+                0.003949967083607637,
+                0.003620803159973667,
+                0.003127057274522712,
+                0.0029624753127057276,
+                0.002139565503620803,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0014812376563528638
+            ]
+        },
+        {
+            "begin": 3504,
+            "end": 3510,
+            "text": "German",
+            "concept": 15
+        },
+        {
+            "begin": 3553,
+            "end": 3560,
+            "text": "Twitter",
+            "concept": 1,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 3570,
+            "end": 3576,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 3623,
+            "end": 3629,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 4414,
+            "end": 4421,
+            "text": "Twitter",
+            "concept": 1,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 4546,
+            "end": 4552,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 4996,
+            "end": 5002,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 5010,
+            "end": 5017,
+            "text": "Twitter",
+            "concept": 1,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 5459,
+            "end": 5466,
+            "text": "Twitter",
+            "concept": 1,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 5500,
+            "end": 5506,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 6106,
+            "end": 6127,
+            "text": "Christian Christensen",
+            "concept": 16,
+            "candidates": [
+                "Christian_Christensen_(athlete)",
+                "Christian_Christensen_(boxer)",
+                "Christian_Christensen_(editor)",
+                "Niels_Christian_Christensen"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.2727272727272727,
+                0.18181818181818182,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 6192,
+            "end": 6212,
+            "text": "Stockholm University",
+            "concept": 17,
+            "candidates": [
+                "Stockholm_University"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 6294,
+            "end": 6298,
+            "text": "Nice",
+            "concept": 8,
+            "candidates": [
+                "Nice",
+                "OGC_Nice",
+                "Open_de_Nice_Côte_d'Azur",
+                "National_Institute_for_Health_and_Care_Excellence",
+                "Nice_Observatory",
+                "Gare_de_Nice-Ville",
+                "Nice_Côte_d'Azur_Airport",
+                "Rugby_Nice_Côte_d'Azur_Université-Racing",
+                "County_of_Nice",
+                "Nice,_California",
+                "Treaty_of_Nice",
+                "Roman_Catholic_Diocese_of_Nice",
+                "Nice_(Unix)",
+                "Nassau_Inter-County_Express",
+                "Nice_(Rollins_Band_album)",
+                "Nice._(Puffy_AmiYumi_album)"
+            ],
+            "scores": [
+                0.7402896642527979,
+                0.1673798551678736,
+                0.018104015799868336,
+                0.014812376563528637,
+                0.010697827518104016,
+                0.004937458854509546,
+                0.003949967083607637,
+                0.003620803159973667,
+                0.003127057274522712,
+                0.0029624753127057276,
+                0.002139565503620803,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0014812376563528638
+            ]
+        },
+        {
+            "begin": 6436,
+            "end": 6441,
+            "text": "Paris",
+            "concept": 12,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 6443,
+            "end": 6451,
+            "text": "Brussels",
+            "concept": 14,
+            "candidates": [
+                "Brussels",
+                "City_of_Brussels",
+                "R.W.D.M._Brussels_F.C.",
+                "King_Baudouin_Stadium",
+                "Brussels_Airport",
+                "Memorial_Van_Damme",
+                "Brussels-South_railway_station",
+                "Donnay_Indoor_Championships",
+                "Arrondissement_of_Brussels",
+                "Brussels,_Ontario",
+                "Belgian_Open_Championships",
+                "Free_University_of_Brussels",
+                "Brussels,_Illinois",
+                "Brussels,_Wisconsin",
+                "Trams_in_Brussels",
+                "Brussels_and_the_European_Union"
+            ],
+            "scores": [
+                0.9528857479387515,
+                0.009069493521790341,
+                0.0055948174322732625,
+                0.0042991755005889285,
+                0.003297997644287397,
+                0.0030035335689045936,
+                0.0028857479387514725,
+                0.0028268551236749115,
+                0.002237926972909305,
+                0.0013545347467608952,
+                0.001177856301531213,
+                0.0008244994110718492,
+                0.0007656065959952886,
+                0.0006478209658421672,
+                0.0006478209658421672,
+                0.0004711425206124853
+            ]
+        },
+        {
+            "begin": 6453,
+            "end": 6457,
+            "text": "Nice",
+            "concept": 8,
+            "candidates": [
+                "Nice",
+                "OGC_Nice",
+                "Open_de_Nice_Côte_d'Azur",
+                "National_Institute_for_Health_and_Care_Excellence",
+                "Nice_Observatory",
+                "Gare_de_Nice-Ville",
+                "Nice_Côte_d'Azur_Airport",
+                "Rugby_Nice_Côte_d'Azur_Université-Racing",
+                "County_of_Nice",
+                "Nice,_California",
+                "Treaty_of_Nice",
+                "Roman_Catholic_Diocese_of_Nice",
+                "Nice_(Unix)",
+                "Nassau_Inter-County_Express",
+                "Nice_(Rollins_Band_album)",
+                "Nice._(Puffy_AmiYumi_album)"
+            ],
+            "scores": [
+                0.7402896642527979,
+                0.1673798551678736,
+                0.018104015799868336,
+                0.014812376563528637,
+                0.010697827518104016,
+                0.004937458854509546,
+                0.003949967083607637,
+                0.003620803159973667,
+                0.003127057274522712,
+                0.0029624753127057276,
+                0.002139565503620803,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0014812376563528638
+            ]
+        },
+        {
+            "begin": 6466,
+            "end": 6472,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 6641,
+            "end": 6645,
+            "text": "Nice",
+            "concept": 8,
+            "candidates": [
+                "Nice",
+                "OGC_Nice",
+                "Open_de_Nice_Côte_d'Azur",
+                "National_Institute_for_Health_and_Care_Excellence",
+                "Nice_Observatory",
+                "Gare_de_Nice-Ville",
+                "Nice_Côte_d'Azur_Airport",
+                "Rugby_Nice_Côte_d'Azur_Université-Racing",
+                "County_of_Nice",
+                "Nice,_California",
+                "Treaty_of_Nice",
+                "Roman_Catholic_Diocese_of_Nice",
+                "Nice_(Unix)",
+                "Nassau_Inter-County_Express",
+                "Nice_(Rollins_Band_album)",
+                "Nice._(Puffy_AmiYumi_album)"
+            ],
+            "scores": [
+                0.7402896642527979,
+                0.1673798551678736,
+                0.018104015799868336,
+                0.014812376563528637,
+                0.010697827518104016,
+                0.004937458854509546,
+                0.003949967083607637,
+                0.003620803159973667,
+                0.003127057274522712,
+                0.0029624753127057276,
+                0.002139565503620803,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0014812376563528638
+            ]
+        },
+        {
+            "begin": 6685,
+            "end": 6692,
+            "text": "Twitter",
+            "concept": 1,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 6837,
+            "end": 6843,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 6918,
+            "end": 6939,
+            "text": "Christian Christensen",
+            "concept": 16,
+            "candidates": [
+                "Christian_Christensen_(athlete)",
+                "Christian_Christensen_(boxer)",
+                "Christian_Christensen_(editor)",
+                "Niels_Christian_Christensen"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.2727272727272727,
+                0.18181818181818182,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 6997,
+            "end": 7001,
+            "text": "Nice",
+            "concept": 8,
+            "candidates": [
+                "Nice",
+                "OGC_Nice",
+                "Open_de_Nice_Côte_d'Azur",
+                "National_Institute_for_Health_and_Care_Excellence",
+                "Nice_Observatory",
+                "Gare_de_Nice-Ville",
+                "Nice_Côte_d'Azur_Airport",
+                "Rugby_Nice_Côte_d'Azur_Université-Racing",
+                "County_of_Nice",
+                "Nice,_California",
+                "Treaty_of_Nice",
+                "Roman_Catholic_Diocese_of_Nice",
+                "Nice_(Unix)",
+                "Nassau_Inter-County_Express",
+                "Nice_(Rollins_Band_album)",
+                "Nice._(Puffy_AmiYumi_album)"
+            ],
+            "scores": [
+                0.7402896642527979,
+                0.1673798551678736,
+                0.018104015799868336,
+                0.014812376563528637,
+                0.010697827518104016,
+                0.004937458854509546,
+                0.003949967083607637,
+                0.003620803159973667,
+                0.003127057274522712,
+                0.0029624753127057276,
+                0.002139565503620803,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0014812376563528638
+            ]
+        },
+        {
+            "begin": 7274,
+            "end": 7280,
+            "text": "Munich",
+            "concept": 4,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "München_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_München",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Olympia",
+            "keyword": true,
+            "count": 1,
+            "link": "Olympia-Einkaufszentrum",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Twitter",
+            "keyword": true,
+            "count": 8,
+            "link": "Twitter",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Facebook",
+            "keyword": true,
+            "count": 1,
+            "link": "Facebook",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Periscope",
+            "keyword": true,
+            "count": 2,
+            "link": "Periscope_(app)",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Munich",
+            "keyword": true,
+            "count": 14,
+            "link": "Munich",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Facebook Live",
+            "keyword": false,
+            "count": 1,
+            "link": "Facebook_Live",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Friday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Nice",
+            "keyword": false,
+            "count": 7,
+            "link": "Nice",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "France",
+            "keyword": false,
+            "count": 1,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Timm Kraeft",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Stachus",
+            "keyword": false,
+            "count": 1,
+            "link": "Karlsplatz_(Stachus)",
+            "tags": [
+                "topic::none",
+                "type::district",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Paris",
+            "keyword": false,
+            "count": 2,
+            "link": "Paris",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "November 2015",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Brussels",
+            "keyword": false,
+            "count": 2,
+            "link": "Brussels",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Christian Christensen",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::05000000",
+                "topic::education",
+                "type::entity",
+                "type::person",
+                "type::teacher"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Stockholm University",
+            "keyword": false,
+            "count": 1,
+            "link": "Stockholm_University",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": [
+                "slot::in"
+            ]
+        },
+        {
+            "concept": 19,
+            "keyword": false,
+            "count": 0,
+            "link": "Belgium",
+            "tags": []
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "Sweden",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 18
+        },
+        {
+            "s": 0,
+            "p": "in2",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 18
+        },
+        {
+            "s": 4,
+            "p": "in0-x",
+            "o": 15
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 18
+        },
+        {
+            "s": 11,
+            "p": "in2",
+            "o": 4
+        },
+        {
+            "s": 12,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 15,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 16,
+            "p": "member_of",
+            "o": 17
+        },
+        {
+            "s": 17,
+            "p": "based_in0",
+            "o": 20
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000103"
+    ]
+}

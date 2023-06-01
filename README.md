@@ -38,3 +38,8 @@ cd experiments
 ```
 * cf [DWIE-FR/experiments/README.md](experiments/README.md), please check the readme to get more details
 
+
+#### Citations
+
+<p> Merci d'utiliser la référence suivante lorsque vous faites mention de ce projet : 
+Sylvain Verdy, Maxime Prieur, Guillaume Gadek, Cédric Lopez (2023) DWIE-FR : Un nouveau jeu de données annoté en entités nommées pour le français. Actes de la conférence TALN’23, Paris, 2023, à paraître. </p>

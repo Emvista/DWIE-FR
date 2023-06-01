@@ -1,0 +1,285 @@
+{
+    "id": "DW_18235499",
+    "content": "How to combat osteoporosis?\nOsteoporosis dramatically rises in Western Europe. Women are afflicted more than men. Patients can, however, take action themselves. We talk to sports scientist Dr. Jürgen Siebenhünen.\nDW: Why do so many people get osteoporosis, and why is the proportion of women so high? Jürgen Siebenhünen: One frequent factor is genetic predisposition, i.e. the illness being passed on by the mother. The main reason for a growing risk of osteoporosis among women is the change in hormone levels during the menopause, who leads to an oestrogen deficiency. As the oestrogen level sinks, bone loss accelerates rapidly by up to 4% per year. Women lose an average of 40% of their bone mass between the ages of 40 and 70. The figure for men is only 12% - although younger men are now catching up, due primarily to unhealthy lifestyles that can favor development of the illness. Insufficient exercise, sweetened drinks, candy, yeast, preserved meat products, pickled meat and above all beer help to reduce bone mass. Can a healthy diet therefore have a positive impact? Faulty diets are indisputably a major factor behind the onset of osteoporosis. Patients should consult a professional dietician to get a formal appraisal of their eating habits. Dietary profiles help to identify faulty nutrition and possible deficiencies in vital nutrients. They also detect dietary sins that are frequently linked to a reduction of calcium levels, and which can be replaced gradually by healthier options. A diet that is balanced and geared to the patient can make a big contribution to relieving symptoms. Which foods do you recommend for osteoporosis patients? Firstly: all varieties of cheese, due to their high calcium content. Then: milk and dairy products, vegetables such as broccoli, cauliflower, all types of cabbage, fennel, wholegrain bread, and fruit. Mineral water that is high in calcium but low in sodium. But while your diet is important, an appropriate workout program remains essential. Do you have an ideal workout program for osteoporosis patients? Sports and workout programs should include exercises that exert pulling pressure on the bones. As impact on the body is also important, working out on a power plate (a rapidly oscillating platform) is very effective. It has been shown that this kind of workout can replenish bone mass and density. Workouts should be carried out on a regularly basis, however, in order to effectively combat osteoporosis. Doing the odd exercise once will not be enough. In addition to special power training with relatively short but very intensive exercises, endurance sports such as jogging and walking are an important component of any proper training program. To maximize the effect on bones, the workout intensity should be raised gradually, and should in any case exceed everyday demands. Finally: workout programs of this nature should only be performed with professional assistance. Dr. Jürgen Siebenhünen is a sports scientist who runs health management seminars, a sports rehabilitation expert and personal trainer. http://www.siebenhuenen-gesundheit.de",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 14,
+            "end": 26,
+            "text": "osteoporosis",
+            "concept": 2,
+            "candidates": [
+                "Osteoporosis"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 28,
+            "end": 40,
+            "text": "Osteoporosis",
+            "concept": 2,
+            "candidates": [
+                "Osteoporosis"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 63,
+            "end": 77,
+            "text": "Western Europe",
+            "concept": 1,
+            "candidates": [
+                "Western_Europe",
+                "Western_Front_(World_War_II)",
+                "Red_Bull_BC_One_Western_European_Finals",
+                "Europe",
+                "List_of_World_Heritage_sites_in_Western_Europe",
+                "Haplogroup_R1b",
+                "Western_Roman_Empire",
+                "Battle_of_France",
+                "Western_world",
+                "Western_European_broadleaf_forests",
+                "Prostitution_in_Europe",
+                "Serbian_Orthodox_Eparchy_of_Western_Europe",
+                "Formula_Renault_2.0_West_European_Cup",
+                "Arabs_in_Europe",
+                "European_theatre_of_World_War_II",
+                "Western_Front_(World_War_I)"
+            ],
+            "scores": [
+                0.9829905063291139,
+                0.006329113924050633,
+                0.0011867088607594937,
+                0.0011867088607594937,
+                0.0007911392405063291,
+                0.0007911392405063291,
+                0.0007911392405063291,
+                0.0007911392405063291,
+                0.0007911392405063291,
+                0.00039556962025316455,
+                0.00039556962025316455,
+                0.00039556962025316455,
+                0.00039556962025316455,
+                0.00039556962025316455,
+                0.00039556962025316455,
+                0.00039556962025316455
+            ]
+        },
+        {
+            "begin": 172,
+            "end": 188,
+            "text": "sports scientist",
+            "concept": 3
+        },
+        {
+            "begin": 189,
+            "end": 192,
+            "text": "Dr.",
+            "concept": 4
+        },
+        {
+            "begin": 193,
+            "end": 211,
+            "text": "Jürgen Siebenhünen",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 213,
+            "end": 215,
+            "text": "DW",
+            "concept": 5,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 243,
+            "end": 255,
+            "text": "osteoporosis",
+            "concept": 2,
+            "candidates": [
+                "Osteoporosis"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 301,
+            "end": 319,
+            "text": "Jürgen Siebenhünen",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 454,
+            "end": 466,
+            "text": "osteoporosis",
+            "concept": 2,
+            "candidates": [
+                "Osteoporosis"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1637,
+            "end": 1649,
+            "text": "osteoporosis",
+            "concept": 2,
+            "candidates": [
+                "Osteoporosis"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2940,
+            "end": 2943,
+            "text": "Dr.",
+            "concept": 4
+        },
+        {
+            "begin": 2944,
+            "end": 2962,
+            "text": "Jürgen Siebenhünen",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Jürgen Siebenhünen",
+            "keyword": true,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::07000000",
+                "slot::keyword",
+                "topic::health",
+                "type::entity",
+                "type::health_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Western Europe",
+            "keyword": true,
+            "count": 1,
+            "link": "Western_Europe",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Osteoporosis",
+            "keyword": true,
+            "count": 5,
+            "link": "Osteoporosis",
+            "tags": [
+                "iptc::07000000",
+                "slot::keyword",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "sports scientist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Dr.",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "DW",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 6,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 6
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "07000000",
+        "20000446"
+    ]
+}

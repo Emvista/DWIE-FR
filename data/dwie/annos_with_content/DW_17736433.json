@@ -1,0 +1,61 @@
+{
+    "id": "DW_17736433",
+    "content": "Automation in the dairy cow industry\nA small but nevertheless important sector of the German economy today is agriculture.\nAlthough the number of farms has declined over the decades, production has actually increased -- especially at dairy farms. Modern automation technology and robotics are helping to keep both cows and farmers happy, but at the cost of jobs.",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 86,
+            "end": 92,
+            "text": "German",
+            "concept": 1
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 1,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 2,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "gpe0",
+            "o": 2
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000209",
+        "20000294",
+        "20000296"
+    ]
+}
