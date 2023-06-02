@@ -1,0 +1,1312 @@
+{
+    "id": "DW_5212988",
+    "content": "Myanmar Junta Announces Amnesty\nThe junta in Myanmar, also known as Burma, announced an amnesty for more than 7,000 prisoners on Friday, including a few political detainees. The amnesty came on the 21st anniversary of the brutal crackdown of a student-led pro-democracy movement in 1988 and the subsequent seizure of power by the current junta.\nJournalists were invited to Yangon’s notorious Insein prison on Friday as the authorities released the first batch of prisoners. At least 600 inmates were freed as part of an amnesty for over 7,000 inmates nationwide. Among those released in Yangon were two journalists and 25 political prisoners -- rights groups say this is only 1 percent of the total number of political prisoners held by the military regime. Maung Zarni, a research fellow at the London School of Economics, was “happy for the prisoners who were part of the release”. “This is a very positive personal development and I am happy they have been released but we need to understand that the junta is using the prisoners’ release as a public relations exercise. It is the 21st anniversary of the military coup so they are using this as a way to pacify political discontent in the country.” Amnesty comes ahead of next year’s polls Myanmar's director general of prisons, Zaw Win, said that the prisoners had been freed so they could take part in next year's polls. In recent months, rights activists, pro-democracy activists and Western countries have cast doubt on the credibility of the planned elections as many key political activists are still in detention. This includes pro-democracy leader Aung San Suu Kyi, who recently began a new 18-month period of house arrest after being found guilty of violating her house arrest order in a widely condemned trial. “The whole Suu kyi trial is rather unlawful,” said Zarni. “Because the country does not have an independent judiciary, the judges are just puppets who dance to the tune of the top leadership.” Junta is holding on tightly In 1990, Suu Kyi’s National League for Democracy won Myanmar’s last general election by a landslide. But the junta never recognised the results and has since tightened its control over the country. The 2008 constitution, which was drafted and approved by the military generals, which guarantees the army 25 percent of parliamentary seats, is yet another sign of its desire to consolidate power. “The military is going to be in power for a long time,” warns Zarni, “because they have got control of all the political and economic institutions in the country as well as the entire state of Burma. So with or without elections, this is likely to remain the same.” New Democratic Party formed Meanwhile, a new political party has been formed in Myanmar. The Democratic Party is headed by Mya Than Than Nu, who is the daughter of the country’s first democratically-elected prime minister, U Nu. The party has proposed a power-sharing deal with the military, which would give 40 percent of power to politicians and 60 percent to the military rulers. Harn Yawnghwe, the director of the Brussels-based Euro-Burma Office, doubts the new party stands a chance: “It is possible that they they would be able to get some votes. But it is not likely, even if they were able to contest the elections freely, that they will be able to form a new government because the military is not prepared to let any party rule.” Democrats should exploit elections He thinks the only way out for the democratic forces in Myanmar is to use the upcoming elections wisely and “to take part in them even if they are against them. I think we have to look at the elections as a process which will lead to democracy -- maybe in few more years.” The National League for Democracy has indicated that it will not take part in the polls unless all Myanmar’s political prisoners, including Suu Kyi, are released. Suu Kyi’s lawyers have filed an appeal against the extension of her house arrest and the court is expected to give a ruling on October 2. But few are hopeful that the junta will amnesty her anytime soon. Author: Disha Uppal Editor: Anne Thomas",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Myanmar",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 45,
+            "end": 52,
+            "text": "Myanmar",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 68,
+            "end": 73,
+            "text": "Burma",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Burma_Campaign",
+                "Konbaung_dynasty",
+                "British_rule_in_Burma",
+                "Myanmar_national_football_team",
+                "Toungoo_dynasty",
+                "Burmese_Way_to_Socialism",
+                "Post-independence_Burma,_1948–62",
+                "Burma_(film)",
+                "State_of_Burma",
+                "Japanese_occupation_of_Burma",
+                "Myanmar_national_cricket_team",
+                "Burma_Campaign_1944–45",
+                "Buddhism_in_Myanmar",
+                "Japanese_conquest_of_Burma",
+                "China_Burma_India_Theater"
+            ],
+            "scores": [
+                0.9217136150234742,
+                0.015492957746478873,
+                0.014436619718309859,
+                0.013732394366197184,
+                0.005985915492957746,
+                0.003051643192488263,
+                0.0029342723004694834,
+                0.002347417840375587,
+                0.0022300469483568074,
+                0.0015258215962441314,
+                0.0015258215962441314,
+                0.0015258215962441314,
+                0.001056338028169014,
+                0.0008215962441314554,
+                0.0008215962441314554,
+                0.0007042253521126761
+            ]
+        },
+        {
+            "begin": 129,
+            "end": 135,
+            "text": "Friday",
+            "concept": 4
+        },
+        {
+            "begin": 282,
+            "end": 286,
+            "text": "1988",
+            "concept": 5
+        },
+        {
+            "begin": 373,
+            "end": 379,
+            "text": "Yangon",
+            "concept": 6,
+            "candidates": [
+                "Yangon",
+                "Yangon_International_Airport",
+                "Yangon_Region",
+                "Roman_Catholic_Archdiocese_of_Yangon",
+                "Yangon_River",
+                "Yangon_Central_railway_station",
+                "Yangon_General_Hospital",
+                "Thilawa_Port"
+            ],
+            "scores": [
+                0.9801452784503631,
+                0.008716707021791767,
+                0.007263922518159807,
+                0.0014527845036319612,
+                0.0009685230024213075,
+                0.00048426150121065375,
+                0.00048426150121065375,
+                0.00048426150121065375
+            ]
+        },
+        {
+            "begin": 392,
+            "end": 398,
+            "text": "Insein",
+            "concept": 7,
+            "candidates": [
+                "Insein_Township",
+                "Insein_Prison",
+                "Insein,_Kale",
+                "Insein_railway_station",
+                "Insein"
+            ],
+            "scores": [
+                0.7441860465116279,
+                0.16279069767441862,
+                0.046511627906976744,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 409,
+            "end": 415,
+            "text": "Friday",
+            "concept": 4
+        },
+        {
+            "begin": 587,
+            "end": 593,
+            "text": "Yangon",
+            "concept": 6,
+            "candidates": [
+                "Yangon",
+                "Yangon_International_Airport",
+                "Yangon_Region",
+                "Roman_Catholic_Archdiocese_of_Yangon",
+                "Yangon_River",
+                "Yangon_Central_railway_station",
+                "Yangon_General_Hospital",
+                "Thilawa_Port"
+            ],
+            "scores": [
+                0.9801452784503631,
+                0.008716707021791767,
+                0.007263922518159807,
+                0.0014527845036319612,
+                0.0009685230024213075,
+                0.00048426150121065375,
+                0.00048426150121065375,
+                0.00048426150121065375
+            ]
+        },
+        {
+            "begin": 758,
+            "end": 769,
+            "text": "Maung Zarni",
+            "concept": 2,
+            "candidates": [
+                "Maung_Zarni"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 796,
+            "end": 822,
+            "text": "London School of Economics",
+            "concept": 8,
+            "candidates": [
+                "London_School_of_Economics"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1243,
+            "end": 1250,
+            "text": "Myanmar",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 1282,
+            "end": 1289,
+            "text": "Zaw Win",
+            "concept": 9,
+            "candidates": [
+                "Zaw_Win"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1440,
+            "end": 1447,
+            "text": "Western",
+            "concept": 10
+        },
+        {
+            "begin": 1602,
+            "end": 1608,
+            "text": "leader",
+            "concept": 11
+        },
+        {
+            "begin": 1609,
+            "end": 1625,
+            "text": "Aung San Suu Kyi",
+            "concept": 3,
+            "candidates": [
+                "Aung_San_Suu_Kyi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1785,
+            "end": 1792,
+            "text": "Suu kyi",
+            "concept": 3,
+            "candidates": [
+                "Aung_San_Suu_Kyi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1785,
+            "end": 1798,
+            "text": "Suu kyi trial",
+            "concept": 12
+        },
+        {
+            "begin": 1825,
+            "end": 1830,
+            "text": "Zarni",
+            "concept": 2,
+            "candidates": [
+                "Zarni,_Iran",
+                "Maung_Zarni"
+            ],
+            "scores": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "begin": 1998,
+            "end": 2002,
+            "text": "1990",
+            "concept": 13
+        },
+        {
+            "begin": 2004,
+            "end": 2011,
+            "text": "Suu Kyi",
+            "concept": 3,
+            "candidates": [
+                "Aung_San_Suu_Kyi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2014,
+            "end": 2043,
+            "text": "National League for Democracy",
+            "concept": 14,
+            "candidates": [
+                "National_League_for_Democracy",
+                "National_League_for_Democracy_(Tanzania)",
+                "Opposition_(Myanmar)"
+            ],
+            "scores": [
+                0.972972972972973,
+                0.024774774774774775,
+                0.0022522522522522522
+            ]
+        },
+        {
+            "begin": 2048,
+            "end": 2055,
+            "text": "Myanmar",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 2197,
+            "end": 2201,
+            "text": "2008",
+            "concept": 15
+        },
+        {
+            "begin": 2452,
+            "end": 2457,
+            "text": "Zarni",
+            "concept": 2,
+            "candidates": [
+                "Zarni,_Iran",
+                "Maung_Zarni"
+            ],
+            "scores": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "begin": 2583,
+            "end": 2588,
+            "text": "Burma",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Burma_Campaign",
+                "Konbaung_dynasty",
+                "British_rule_in_Burma",
+                "Myanmar_national_football_team",
+                "Toungoo_dynasty",
+                "Burmese_Way_to_Socialism",
+                "Post-independence_Burma,_1948–62",
+                "Burma_(film)",
+                "State_of_Burma",
+                "Japanese_occupation_of_Burma",
+                "Myanmar_national_cricket_team",
+                "Burma_Campaign_1944–45",
+                "Buddhism_in_Myanmar",
+                "Japanese_conquest_of_Burma",
+                "China_Burma_India_Theater"
+            ],
+            "scores": [
+                0.9217136150234742,
+                0.015492957746478873,
+                0.014436619718309859,
+                0.013732394366197184,
+                0.005985915492957746,
+                0.003051643192488263,
+                0.0029342723004694834,
+                0.002347417840375587,
+                0.0022300469483568074,
+                0.0015258215962441314,
+                0.0015258215962441314,
+                0.0015258215962441314,
+                0.001056338028169014,
+                0.0008215962441314554,
+                0.0008215962441314554,
+                0.0007042253521126761
+            ]
+        },
+        {
+            "begin": 2660,
+            "end": 2676,
+            "text": "Democratic Party",
+            "concept": 16,
+            "candidates": [
+                "Democratic_Party_(United_States)",
+                "Democratic_Party_(Italy)",
+                "Democratic_Party_(Serbia)",
+                "Democratic_Party_(Hong_Kong)",
+                "Democratic_Party_(Luxembourg)",
+                "Democratic_Party_of_Albania",
+                "Democratic_Party_(Mongolia)",
+                "History_of_the_United_States_Democratic_Party",
+                "Democratic_Party_(Turkey,_current)",
+                "Democratic_Party_(Romania)",
+                "Democratic_Party_(Cyprus)",
+                "Democratic_Party_(Japan,_2016)",
+                "Democratic_Party_(Japan,_1998)",
+                "Democratic_Party_(Cook_Islands)",
+                "Democratic_Party_(South_Africa)",
+                "Democratic_Party_(Bulgaria)"
+            ],
+            "scores": [
+                0.5905482324745357,
+                0.11758538046734572,
+                0.041042540443379266,
+                0.0304823247453565,
+                0.01610245656081486,
+                0.013181545835829839,
+                0.012207908927501497,
+                0.008912522468544038,
+                0.00786399041342121,
+                0.007339724385859796,
+                0.006965248651887358,
+                0.006440982624325944,
+                0.005617136009586579,
+                0.005542240862792091,
+                0.005467345715997603,
+                0.004868184541641701
+            ]
+        },
+        {
+            "begin": 2736,
+            "end": 2743,
+            "text": "Myanmar",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 2749,
+            "end": 2765,
+            "text": "Democratic Party",
+            "concept": 16,
+            "candidates": [
+                "Democratic_Party_(United_States)",
+                "Democratic_Party_(Italy)",
+                "Democratic_Party_(Serbia)",
+                "Democratic_Party_(Hong_Kong)",
+                "Democratic_Party_(Luxembourg)",
+                "Democratic_Party_of_Albania",
+                "Democratic_Party_(Mongolia)",
+                "History_of_the_United_States_Democratic_Party",
+                "Democratic_Party_(Turkey,_current)",
+                "Democratic_Party_(Romania)",
+                "Democratic_Party_(Cyprus)",
+                "Democratic_Party_(Japan,_2016)",
+                "Democratic_Party_(Japan,_1998)",
+                "Democratic_Party_(Cook_Islands)",
+                "Democratic_Party_(South_Africa)",
+                "Democratic_Party_(Bulgaria)"
+            ],
+            "scores": [
+                0.5905482324745357,
+                0.11758538046734572,
+                0.041042540443379266,
+                0.0304823247453565,
+                0.01610245656081486,
+                0.013181545835829839,
+                0.012207908927501497,
+                0.008912522468544038,
+                0.00786399041342121,
+                0.007339724385859796,
+                0.006965248651887358,
+                0.006440982624325944,
+                0.005617136009586579,
+                0.005542240862792091,
+                0.005467345715997603,
+                0.004868184541641701
+            ]
+        },
+        {
+            "begin": 2779,
+            "end": 2795,
+            "text": "Mya Than Than Nu",
+            "concept": 17,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2863,
+            "end": 2877,
+            "text": "prime minister",
+            "concept": 18
+        },
+        {
+            "begin": 2879,
+            "end": 2883,
+            "text": "U Nu",
+            "concept": 19,
+            "candidates": [
+                "U_Nu"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3039,
+            "end": 3052,
+            "text": "Harn Yawnghwe",
+            "concept": 20,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3074,
+            "end": 3082,
+            "text": "Brussels",
+            "concept": 21,
+            "candidates": [
+                "Brussels",
+                "City_of_Brussels",
+                "R.W.D.M._Brussels_F.C.",
+                "King_Baudouin_Stadium",
+                "Brussels_Airport",
+                "Memorial_Van_Damme",
+                "Brussels-South_railway_station",
+                "Donnay_Indoor_Championships",
+                "Arrondissement_of_Brussels",
+                "Brussels,_Ontario",
+                "Belgian_Open_Championships",
+                "Free_University_of_Brussels",
+                "Brussels,_Illinois",
+                "Brussels,_Wisconsin",
+                "Trams_in_Brussels",
+                "Brussels_and_the_European_Union"
+            ],
+            "scores": [
+                0.9528857479387515,
+                0.009069493521790341,
+                0.0055948174322732625,
+                0.0042991755005889285,
+                0.003297997644287397,
+                0.0030035335689045936,
+                0.0028857479387514725,
+                0.0028268551236749115,
+                0.002237926972909305,
+                0.0013545347467608952,
+                0.001177856301531213,
+                0.0008244994110718492,
+                0.0007656065959952886,
+                0.0006478209658421672,
+                0.0006478209658421672,
+                0.0004711425206124853
+            ]
+        },
+        {
+            "begin": 3089,
+            "end": 3106,
+            "text": "Euro-Burma Office",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3488,
+            "end": 3495,
+            "text": "Myanmar",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 3709,
+            "end": 3738,
+            "text": "National League for Democracy",
+            "concept": 14,
+            "candidates": [
+                "National_League_for_Democracy",
+                "National_League_for_Democracy_(Tanzania)",
+                "Opposition_(Myanmar)"
+            ],
+            "scores": [
+                0.972972972972973,
+                0.024774774774774775,
+                0.0022522522522522522
+            ]
+        },
+        {
+            "begin": 3804,
+            "end": 3811,
+            "text": "Myanmar",
+            "concept": 0,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 3845,
+            "end": 3852,
+            "text": "Suu Kyi",
+            "concept": 3,
+            "candidates": [
+                "Aung_San_Suu_Kyi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3868,
+            "end": 3875,
+            "text": "Suu Kyi",
+            "concept": 3,
+            "candidates": [
+                "Aung_San_Suu_Kyi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3995,
+            "end": 4004,
+            "text": "October 2",
+            "concept": 23
+        },
+        {
+            "begin": 4072,
+            "end": 4111,
+            "text": "Author: Disha Uppal Editor: Anne Thomas",
+            "concept": 24
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Myanmar",
+            "keyword": true,
+            "count": 9,
+            "link": "Myanmar",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 2,
+            "text": "Maung Zarni",
+            "keyword": false,
+            "count": 3,
+            "link": "Maung_Zarni",
+            "tags": [
+                "gender::male",
+                "iptc::05000000",
+                "topic::education",
+                "type::education_per",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Aung San Suu Kyi",
+            "keyword": false,
+            "count": 5,
+            "link": "Aung_San_Suu_Kyi",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Friday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "1988",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Yangon",
+            "keyword": false,
+            "count": 2,
+            "link": "Yangon",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Insein",
+            "keyword": false,
+            "count": 1,
+            "link": "Insein_Prison",
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::prison"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "London School of Economics",
+            "keyword": false,
+            "count": 1,
+            "link": "London_School_of_Economics",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Zaw Win",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician",
+                "type::politician_national"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Western",
+            "keyword": false,
+            "count": 1,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "leader",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Suu kyi trial",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::redo"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "1990",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "National League for Democracy",
+            "keyword": false,
+            "count": 2,
+            "link": "National_League_for_Democracy",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "2008",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Democratic Party",
+            "keyword": false,
+            "count": 2,
+            "link": "Democratic_Party_(Myanmar)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Mya Than Than Nu",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::head",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "prime minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "U Nu",
+            "keyword": false,
+            "count": 1,
+            "link": "U_Nu",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Harn Yawnghwe",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::head",
+                "topic::politics",
+                "type::activist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Brussels",
+            "keyword": false,
+            "count": 1,
+            "link": "Brussels",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Euro-Burma Office",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::ngo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "October 2",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Author: Disha Uppal Editor: Anne Thomas",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 25,
+            "keyword": false,
+            "count": 0,
+            "link": "Belgium",
+            "tags": []
+        },
+        {
+            "concept": 26,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 14
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 14
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 7,
+            "p": "in2",
+            "o": 6
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 26
+        },
+        {
+            "s": 9,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 9,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 17,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 17,
+            "p": "head_of",
+            "o": 16
+        },
+        {
+            "s": 17,
+            "p": "member_of",
+            "o": 16
+        },
+        {
+            "s": 19,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 19,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 19,
+            "p": "head_of_gov",
+            "o": 0
+        },
+        {
+            "s": 20,
+            "p": "head_of",
+            "o": 22
+        },
+        {
+            "s": 20,
+            "p": "member_of",
+            "o": 22
+        },
+        {
+            "s": 21,
+            "p": "in0",
+            "o": 25
+        },
+        {
+            "s": 22,
+            "p": "based_in0",
+            "o": 25
+        },
+        {
+            "s": 22,
+            "p": "based_in2",
+            "o": 21
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "16000000",
+        "20000080"
+    ]
+}

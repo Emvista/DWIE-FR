@@ -1,0 +1,561 @@
+{
+    "id": "DW_18751636",
+    "content": "Aging health: WHO call to action as world population over 60 set to double by 2050\nIn a new report on aging and health, the World Health Organization is calling for action on \"population aging,\" as figures suggest the number of people over 60 will reach two billion by 2050.\nPeople worldwide are living longer, says the World Health Organization in its World Report on Aging and Health. This is both good and bad. It gives us the chance to \"pursue new activities\" as we get older, such as in education and family life. But it all depends on our health. And for that the WHO says world governments need to act now to make sure our societies worldwide are ready. What are the take home facts from the World Health Organization's 2015 report on Aging and Health? The WHO says that in the next 35 years, the global number of people aged 60 years and over will almost double from 12 percent to 22 percent. By 2020, there will be more people over the age of 60 than 5 year olds. And a majority of older people (80 percent) will live in \"low and middle income\" countries. It's estimated that the world's population aged 60 years and older will total about 2 billion in 2050, which is more than twice as much as now. Furthermore, worldwide, about 125 million people are aged 80 years or older. But by 2050, it is expected that this number of people - aged 80 and over - will live in China alone. But I'm not old, so why should I care? Well, all this is happening at a faster rate than ever before. And the WHO says \"all countries face major challenges to ensure that their health and social systems are ready\" for this major demographic shift. It will cost a lot of money to improve health and social infrastructures, especially in more developed countries where traditional families structures have changed dramatically. Surely, there's \"no typical older person,\" though. How does the WHO define aging? We tend to think of older people as physically and mentally frail. But that's not necessarily the case, not everywhere in the world. Old is a relative concept - especially in middle income to rich countries. For instance, some 70 year olds are as fit as some 20 year olds. Just think how many older folk are at your gym, and ask yourself whether you can keep up with all of them. But that still doesn't explain aging. What is it exactly? The WHO says that at a biological level, \"aging results from the impact of the accumulation of a wide variety of molecular and cellular damage over time.\" Basically, this puts people at a higher risk of disease and, of course, death. But aging can also be associated with \"life transitions,\" such as retirement or witnessing other people, such as friends and family, die around you. This can affect you psychologically and sometimes, as a result, physically. What sort of diseases come with old age? Some of the most common non-fatal conditions include hearing loss, cataracts, back and neck pain and osteoarthritis. Other conditions include chronic obstructive pulmonary disease - which affects the lungs - diabetes, depression, and dementia. What needs to be done? The WHO is proposing a five-step plan of action, which includes: Committing to healthy aging and \"evidence-based policies to strengthen the abilities of older persons.\" Aligning health systems with the needs of older populations Developing systems for providing long-term care Creating \"age-friendly cities and communities Improving measurement, monitoring and understanding of \"aging issues\" worldwide. But don't forget: \"a longer life brings with it opportunities, not only for older people and their families, but also for societies as a whole.\"",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 14,
+            "end": 17,
+            "text": "WHO",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "The_Who",
+                "WHO_(AM)",
+                "Who_(magazine)",
+                "Who?_(song)",
+                "Who_(pronoun)",
+                "Who?_(novel)",
+                "Who?_(album)",
+                "Who_(Unix)",
+                "Who_(film)",
+                "Who?_(film)",
+                "Dr._Who!_(Tujamo_and_Plastik_Funk_song)",
+                "Jim_Neidhart",
+                "Who...",
+                "WHO-DT",
+                "And_(Koda_Kumi_album)"
+            ],
+            "scores": [
+                0.8395061728395061,
+                0.04467960023515579,
+                0.03468547912992358,
+                0.015873015873015872,
+                0.014109347442680775,
+                0.011169900058788948,
+                0.00940623162845385,
+                0.007054673721340388,
+                0.006466784244562022,
+                0.00411522633744856,
+                0.0029394473838918285,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0005878894767783657
+            ]
+        },
+        {
+            "begin": 78,
+            "end": 82,
+            "text": "2050",
+            "concept": 2
+        },
+        {
+            "begin": 124,
+            "end": 149,
+            "text": "World Health Organization",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "WHO_Collaborating_Centres",
+                "World_Health_Organization_Goodwill_Ambassador",
+                "World_Health_Organisation_Composite_International_Diagnostic_Interview"
+            ],
+            "scores": [
+                0.9994109562144119,
+                0.00019634792852935403,
+                0.00019634792852935403,
+                0.00019634792852935403
+            ]
+        },
+        {
+            "begin": 269,
+            "end": 273,
+            "text": "2050",
+            "concept": 2
+        },
+        {
+            "begin": 320,
+            "end": 345,
+            "text": "World Health Organization",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "WHO_Collaborating_Centres",
+                "World_Health_Organization_Goodwill_Ambassador",
+                "World_Health_Organisation_Composite_International_Diagnostic_Interview"
+            ],
+            "scores": [
+                0.9994109562144119,
+                0.00019634792852935403,
+                0.00019634792852935403,
+                0.00019634792852935403
+            ]
+        },
+        {
+            "begin": 353,
+            "end": 385,
+            "text": "World Report on Aging and Health",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 570,
+            "end": 573,
+            "text": "WHO",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "The_Who",
+                "WHO_(AM)",
+                "Who_(magazine)",
+                "Who?_(song)",
+                "Who_(pronoun)",
+                "Who?_(novel)",
+                "Who?_(album)",
+                "Who_(Unix)",
+                "Who_(film)",
+                "Who?_(film)",
+                "Dr._Who!_(Tujamo_and_Plastik_Funk_song)",
+                "Jim_Neidhart",
+                "Who...",
+                "WHO-DT",
+                "And_(Koda_Kumi_album)"
+            ],
+            "scores": [
+                0.8395061728395061,
+                0.04467960023515579,
+                0.03468547912992358,
+                0.015873015873015872,
+                0.014109347442680775,
+                0.011169900058788948,
+                0.00940623162845385,
+                0.007054673721340388,
+                0.006466784244562022,
+                0.00411522633744856,
+                0.0029394473838918285,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0005878894767783657
+            ]
+        },
+        {
+            "begin": 699,
+            "end": 724,
+            "text": "World Health Organization",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "WHO_Collaborating_Centres",
+                "World_Health_Organization_Goodwill_Ambassador",
+                "World_Health_Organisation_Composite_International_Diagnostic_Interview"
+            ],
+            "scores": [
+                0.9994109562144119,
+                0.00019634792852935403,
+                0.00019634792852935403,
+                0.00019634792852935403
+            ]
+        },
+        {
+            "begin": 727,
+            "end": 731,
+            "text": "2015",
+            "concept": 3
+        },
+        {
+            "begin": 742,
+            "end": 758,
+            "text": "Aging and Health",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 764,
+            "end": 767,
+            "text": "WHO",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "The_Who",
+                "WHO_(AM)",
+                "Who_(magazine)",
+                "Who?_(song)",
+                "Who_(pronoun)",
+                "Who?_(novel)",
+                "Who?_(album)",
+                "Who_(Unix)",
+                "Who_(film)",
+                "Who?_(film)",
+                "Dr._Who!_(Tujamo_and_Plastik_Funk_song)",
+                "Jim_Neidhart",
+                "Who...",
+                "WHO-DT",
+                "And_(Koda_Kumi_album)"
+            ],
+            "scores": [
+                0.8395061728395061,
+                0.04467960023515579,
+                0.03468547912992358,
+                0.015873015873015872,
+                0.014109347442680775,
+                0.011169900058788948,
+                0.00940623162845385,
+                0.007054673721340388,
+                0.006466784244562022,
+                0.00411522633744856,
+                0.0029394473838918285,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0005878894767783657
+            ]
+        },
+        {
+            "begin": 904,
+            "end": 908,
+            "text": "2020",
+            "concept": 4
+        },
+        {
+            "begin": 1162,
+            "end": 1166,
+            "text": "2050",
+            "concept": 2
+        },
+        {
+            "begin": 1293,
+            "end": 1297,
+            "text": "2050",
+            "concept": 2
+        },
+        {
+            "begin": 1375,
+            "end": 1380,
+            "text": "China",
+            "concept": 5,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912–1949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1498,
+            "end": 1501,
+            "text": "WHO",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "The_Who",
+                "WHO_(AM)",
+                "Who_(magazine)",
+                "Who?_(song)",
+                "Who_(pronoun)",
+                "Who?_(novel)",
+                "Who?_(album)",
+                "Who_(Unix)",
+                "Who_(film)",
+                "Who?_(film)",
+                "Dr._Who!_(Tujamo_and_Plastik_Funk_song)",
+                "Jim_Neidhart",
+                "Who...",
+                "WHO-DT",
+                "And_(Koda_Kumi_album)"
+            ],
+            "scores": [
+                0.8395061728395061,
+                0.04467960023515579,
+                0.03468547912992358,
+                0.015873015873015872,
+                0.014109347442680775,
+                0.011169900058788948,
+                0.00940623162845385,
+                0.007054673721340388,
+                0.006466784244562022,
+                0.00411522633744856,
+                0.0029394473838918285,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0005878894767783657
+            ]
+        },
+        {
+            "begin": 1878,
+            "end": 1881,
+            "text": "WHO",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "The_Who",
+                "WHO_(AM)",
+                "Who_(magazine)",
+                "Who?_(song)",
+                "Who_(pronoun)",
+                "Who?_(novel)",
+                "Who?_(album)",
+                "Who_(Unix)",
+                "Who_(film)",
+                "Who?_(film)",
+                "Dr._Who!_(Tujamo_and_Plastik_Funk_song)",
+                "Jim_Neidhart",
+                "Who...",
+                "WHO-DT",
+                "And_(Koda_Kumi_album)"
+            ],
+            "scores": [
+                0.8395061728395061,
+                0.04467960023515579,
+                0.03468547912992358,
+                0.015873015873015872,
+                0.014109347442680775,
+                0.011169900058788948,
+                0.00940623162845385,
+                0.007054673721340388,
+                0.006466784244562022,
+                0.00411522633744856,
+                0.0029394473838918285,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0005878894767783657
+            ]
+        },
+        {
+            "begin": 2338,
+            "end": 2341,
+            "text": "WHO",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "The_Who",
+                "WHO_(AM)",
+                "Who_(magazine)",
+                "Who?_(song)",
+                "Who_(pronoun)",
+                "Who?_(novel)",
+                "Who?_(album)",
+                "Who_(Unix)",
+                "Who_(film)",
+                "Who?_(film)",
+                "Dr._Who!_(Tujamo_and_Plastik_Funk_song)",
+                "Jim_Neidhart",
+                "Who...",
+                "WHO-DT",
+                "And_(Koda_Kumi_album)"
+            ],
+            "scores": [
+                0.8395061728395061,
+                0.04467960023515579,
+                0.03468547912992358,
+                0.015873015873015872,
+                0.014109347442680775,
+                0.011169900058788948,
+                0.00940623162845385,
+                0.007054673721340388,
+                0.006466784244562022,
+                0.00411522633744856,
+                0.0029394473838918285,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0005878894767783657
+            ]
+        },
+        {
+            "begin": 3105,
+            "end": 3108,
+            "text": "WHO",
+            "concept": 0,
+            "candidates": [
+                "World_Health_Organization",
+                "The_Who",
+                "WHO_(AM)",
+                "Who_(magazine)",
+                "Who?_(song)",
+                "Who_(pronoun)",
+                "Who?_(novel)",
+                "Who?_(album)",
+                "Who_(Unix)",
+                "Who_(film)",
+                "Who?_(film)",
+                "Dr._Who!_(Tujamo_and_Plastik_Funk_song)",
+                "Jim_Neidhart",
+                "Who...",
+                "WHO-DT",
+                "And_(Koda_Kumi_album)"
+            ],
+            "scores": [
+                0.8395061728395061,
+                0.04467960023515579,
+                0.03468547912992358,
+                0.015873015873015872,
+                0.014109347442680775,
+                0.011169900058788948,
+                0.00940623162845385,
+                0.007054673721340388,
+                0.006466784244562022,
+                0.00411522633744856,
+                0.0029394473838918285,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0011757789535567313,
+                0.0005878894767783657
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "World Health Organization",
+            "keyword": true,
+            "count": 10,
+            "link": "World_Health_Organization",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "World Report on Aging and Health",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::report"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "2050",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "2015",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "2020",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "China",
+            "keyword": false,
+            "count": 1,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Nations",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "institution_of",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "part_of",
+            "o": 6
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "06000000",
+        "20000430",
+        "20000435"
+    ]
+}

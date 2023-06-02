@@ -1,0 +1,982 @@
+{
+    "id": "DW_3615045",
+    "content": "German Wine Producers Discover the Art of PR\nAfter years of being thought of as cheap and sugary, German wine is enjoying huge international success. It owes its success to producers who are adapting to accommodate a new generation of consumers.\nAs the first grapes of this year's harvest are due to be picked in the coming weeks, wine producers are optimistic about the 2008 vintage. But Raimund Pruem, who has been producing wine in the Moselle Valley for over 30 years, remembers a time when Riesling was not so prosperous. \"The bad reputation of German wine really hurt us,\" he said. \"I will never forget a blind tasting we did a while ago. The judges gave tremendous praise: Against South African and Australian wines, German Riesling did the best. But when they took off their blindfolds and saw the labels they started making excuses for their comments.\" Since then, however, German wine has made a comeback, particularly in the US after some Moselle Valley vintners earned the attention of the hugely influential American wine critic Robert Parker. A new generation of customers As German vintners don't tend to produce very large quantities of any one style of wine due to the varying conditions in the vineyards, most of their wine sold abroad goes through specialist retailers or online. Due to the steepness of the slopes virtually all Riesling in the Moselle Valley is hand-picked and despite being very labor intensive, high quality German wines remain relatively inexpensive -- a new reputation that is prized by vintners. But while Germany's sweet Rieslings are by far the most popular in the US, the German market decidedly prefers the \"trocken\" variety, the dry wines. Ninety-five percent of the wine the S.A. Pruem winery sells in Germany is dry Riesling. \"There is a generational problem, young people in Germany today do not drink the same wine as their grandparents anymore -- they drink only drier, more expensive wines,\" Pruem said. This is a relatively new development since a sudden change in German wine drinkers' pallets in 1976 switched the demand from very sweet Rieslings to bone dry. Such changes are not uncommon in the wine business as each generation of customers presents new demands. Producers stepping up Although Raimund Pruem's vineyards have been in his family since 1158 and his daughter is now sharing his marketing responsibilities, the art of winemaking is no longer something taught exclusively from one generation to the next. Virtually all top vintners around the Moselle have studied viticulture and vinification, gathering experience with many grape varieties and in some cases working in vineyards around the world. While Pruem's ancestors' jobs mainly consisted of winemaking, today German wine producers are increasingly spending their time promoting and selling their wines too. \"When people come here they don't want to meet the sales staff, they want to meet the producer,\" Pruem explained. \"Who else is a better promoter than the producer himself? That's something that has changed totally. My grandfather, my father and even myself when I was younger -- we saw how it doesn't work sitting here, waiting for customers, you have to be active.\" There has to be a connection between the producer and his customers, he added: \"Customers need communication.\" As a result, more and more producers are taking it upon themselves to host large group tastings, wedding receptions and to participate in international tasting events, touring the world with their wines. An artful business The change in approach is evident. Producers are experimenting and reaching out more and more: Bottles of other grape varieties such as Pinot Blanc and Chardonnay -- and even the occasional red wine -- are increasingly found on tasting lists around the Moselle Valley. But the demands of marketing are hard to keep up with. \"I have to sell my wine twice: first to the customer (the retailer), then to my customer's customer,\" Pruem said. \"You have to go with the retailer to ensure the wine is on the shelves and is being taken off the shelves and bought.\" Like most other wine producers, Pruem is carrying on the centuries-old art of winemaking: \"The art is to taste the juice from the grapes and produce a wine from it that shows the signals of the vineyard.\" But he is also introducing a new art -- that of public relations. \"My wines need to show character, if they don't show character then forget it.\" -- Pruem's statement reveals the bottom line for vintners like himself: If their wine fails to meet standards, then not only is their livelihood, passion and reputation at stake, but also their legacy.",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 98,
+            "end": 104,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 371,
+            "end": 375,
+            "text": "2008",
+            "concept": 5
+        },
+        {
+            "begin": 389,
+            "end": 402,
+            "text": "Raimund Pruem",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 439,
+            "end": 453,
+            "text": "Moselle Valley",
+            "concept": 2,
+            "candidates": [
+                "Moselle_Valley",
+                "Moselle",
+                "Moselle_wine"
+            ],
+            "scores": [
+                0.8378378378378378,
+                0.13513513513513514,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 495,
+            "end": 503,
+            "text": "Riesling",
+            "concept": 0,
+            "candidates": [
+                "Riesling",
+                "Riesling_Trail"
+            ],
+            "scores": [
+                0.9983579638752053,
+                0.0016420361247947454
+            ]
+        },
+        {
+            "begin": 550,
+            "end": 556,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 688,
+            "end": 701,
+            "text": "South African",
+            "concept": 6
+        },
+        {
+            "begin": 706,
+            "end": 716,
+            "text": "Australian",
+            "concept": 7
+        },
+        {
+            "begin": 724,
+            "end": 730,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 731,
+            "end": 739,
+            "text": "Riesling",
+            "concept": 0,
+            "candidates": [
+                "Riesling",
+                "Riesling_Trail"
+            ],
+            "scores": [
+                0.9983579638752053,
+                0.0016420361247947454
+            ]
+        },
+        {
+            "begin": 883,
+            "end": 889,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 936,
+            "end": 938,
+            "text": "US",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 950,
+            "end": 964,
+            "text": "Moselle Valley",
+            "concept": 2,
+            "candidates": [
+                "Moselle_Valley",
+                "Moselle",
+                "Moselle_wine"
+            ],
+            "scores": [
+                0.8378378378378378,
+                0.13513513513513514,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 1021,
+            "end": 1029,
+            "text": "American",
+            "concept": 9
+        },
+        {
+            "begin": 1030,
+            "end": 1041,
+            "text": "wine critic",
+            "concept": 10
+        },
+        {
+            "begin": 1042,
+            "end": 1055,
+            "text": "Robert Parker",
+            "concept": 11,
+            "candidates": [
+                "Robert_M._Parker_Jr.",
+                "Robert_Parker_(singer)",
+                "Robert_Parker_(minister)",
+                "Robert_Parker_(judge)",
+                "Robert_Parker_(dancer)",
+                "Robert_A._Parker",
+                "Robert_Parker_(historian)",
+                "Robert_Parker_(music_producer)",
+                "Robert_Parker_(sound_engineer)",
+                "Robert_Parker_(water_polo)",
+                "Rob_Parker_(rugby_league)",
+                "Robert_B._Parker",
+                "Robert_Fuller",
+                "Robert_Parker_(musician)",
+                "Sir_Robert_Parker,_1st_Baronet",
+                "Robert_Parker,_Baron_Parker_of_Waddington"
+            ],
+            "scores": [
+                0.4942528735632184,
+                0.1724137931034483,
+                0.06321839080459771,
+                0.034482758620689655,
+                0.034482758620689655,
+                0.034482758620689655,
+                0.028735632183908046,
+                0.022988505747126436,
+                0.022988505747126436,
+                0.017241379310344827,
+                0.017241379310344827,
+                0.017241379310344827,
+                0.011494252873563218,
+                0.005747126436781609,
+                0.005747126436781609,
+                0.005747126436781609
+            ]
+        },
+        {
+            "begin": 1090,
+            "end": 1096,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 1348,
+            "end": 1356,
+            "text": "Riesling",
+            "concept": 0,
+            "candidates": [
+                "Riesling",
+                "Riesling_Trail"
+            ],
+            "scores": [
+                0.9983579638752053,
+                0.0016420361247947454
+            ]
+        },
+        {
+            "begin": 1364,
+            "end": 1378,
+            "text": "Moselle Valley",
+            "concept": 2,
+            "candidates": [
+                "Moselle_Valley",
+                "Moselle",
+                "Moselle_wine"
+            ],
+            "scores": [
+                0.8378378378378378,
+                0.13513513513513514,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 1447,
+            "end": 1453,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 1548,
+            "end": 1555,
+            "text": "Germany",
+            "concept": 12,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1564,
+            "end": 1573,
+            "text": "Rieslings",
+            "concept": 0,
+            "candidates": [
+                "Riesling"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1609,
+            "end": 1611,
+            "text": "US",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1617,
+            "end": 1623,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 1723,
+            "end": 1733,
+            "text": "S.A. Pruem",
+            "concept": 13,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1750,
+            "end": 1757,
+            "text": "Germany",
+            "concept": 12,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1765,
+            "end": 1773,
+            "text": "Riesling",
+            "concept": 0,
+            "candidates": [
+                "Riesling",
+                "Riesling_Trail"
+            ],
+            "scores": [
+                0.9983579638752053,
+                0.0016420361247947454
+            ]
+        },
+        {
+            "begin": 1825,
+            "end": 1832,
+            "text": "Germany",
+            "concept": 12,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1945,
+            "end": 1950,
+            "text": "Pruem",
+            "concept": 1,
+            "candidates": [
+                "Prüm"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2019,
+            "end": 2025,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 2052,
+            "end": 2056,
+            "text": "1976",
+            "concept": 14
+        },
+        {
+            "begin": 2093,
+            "end": 2102,
+            "text": "Rieslings",
+            "concept": 0,
+            "candidates": [
+                "Riesling"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2252,
+            "end": 2265,
+            "text": "Raimund Pruem",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2308,
+            "end": 2312,
+            "text": "1158",
+            "concept": 15
+        },
+        {
+            "begin": 2512,
+            "end": 2519,
+            "text": "Moselle",
+            "concept": 2,
+            "candidates": [
+                "Moselle",
+                "Moselle_(department)",
+                "Moselle,_Mississippi",
+                "Mosel_(wine_region)",
+                "Moselle_wine",
+                "River_Moselle_(London)",
+                "Moselle_(wine)",
+                "Moselle,_Missouri",
+                "Moselle_Valley",
+                "HMS_Moselle_(1804)",
+                "Army_of_the_Moselle",
+                "List_of_senators_of_Moselle",
+                "Moselle_(riverboat)",
+                "Moselle_VDQS",
+                "2012_Moselle_Open"
+            ],
+            "scores": [
+                0.5150801131008482,
+                0.4637134778510839,
+                0.0051837888784165885,
+                0.003298774740810556,
+                0.00235626767200754,
+                0.001885014137606032,
+                0.001885014137606032,
+                0.001885014137606032,
+                0.000942507068803016,
+                0.000942507068803016,
+                0.000942507068803016,
+                0.000471253534401508,
+                0.000471253534401508,
+                0.000471253534401508,
+                0.000471253534401508
+            ]
+        },
+        {
+            "begin": 2673,
+            "end": 2678,
+            "text": "Pruem",
+            "concept": 1,
+            "candidates": [
+                "Prüm"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2735,
+            "end": 2741,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 2930,
+            "end": 2935,
+            "text": "Pruem",
+            "concept": 1,
+            "candidates": [
+                "Prüm"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3670,
+            "end": 3681,
+            "text": "Pinot Blanc",
+            "concept": 4,
+            "candidates": [
+                "Pinot_blanc"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3686,
+            "end": 3696,
+            "text": "Chardonnay",
+            "concept": 16,
+            "candidates": [
+                "Chardonnay",
+                "Chardonnay,_Saône-et-Loire",
+                "Chardonnay_(name)"
+            ],
+            "scores": [
+                0.9947552447552448,
+                0.004370629370629371,
+                0.0008741258741258741
+            ]
+        },
+        {
+            "begin": 3787,
+            "end": 3801,
+            "text": "Moselle Valley",
+            "concept": 2,
+            "candidates": [
+                "Moselle_Valley",
+                "Moselle",
+                "Moselle_wine"
+            ],
+            "scores": [
+                0.8378378378378378,
+                0.13513513513513514,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 3960,
+            "end": 3965,
+            "text": "Pruem",
+            "concept": 1,
+            "candidates": [
+                "Prüm"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4123,
+            "end": 4128,
+            "text": "Pruem",
+            "concept": 1,
+            "candidates": [
+                "Prüm"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4445,
+            "end": 4450,
+            "text": "Pruem",
+            "concept": 1,
+            "candidates": [
+                "Prüm"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Rieslings",
+            "keyword": true,
+            "count": 7,
+            "link": "Riesling",
+            "tags": [
+                "iptc::20000170",
+                "meta::redo",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Raimund Pruem",
+            "keyword": true,
+            "count": 8,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Moselle Valley",
+            "keyword": true,
+            "count": 5,
+            "link": "Moselle_Valley",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "German",
+            "keyword": true,
+            "count": 10,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Pinot Blanc",
+            "keyword": true,
+            "count": 1,
+            "link": "Pinot_blanc",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "2008",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "South African",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Australian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "US",
+            "keyword": false,
+            "count": 2,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "wine critic",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Robert Parker",
+            "keyword": false,
+            "count": 1,
+            "link": "Robert_M._Parker_Jr.",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Germany",
+            "keyword": false,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "S.A. Pruem",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "1976",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "1158",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Chardonnay",
+            "keyword": false,
+            "count": 1,
+            "link": "Chardonnay",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 17,
+            "keyword": false,
+            "count": 0,
+            "link": "Australia",
+            "tags": []
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "South_Africa",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "head_of",
+            "o": 13
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 13
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 2,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 17
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 8
+        },
+        {
+            "s": 11,
+            "p": "citizen_of",
+            "o": 8
+        },
+        {
+            "s": 11,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 13,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 13,
+            "p": "based_in0-x",
+            "o": 3
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "10000000",
+        "20000565",
+        "20000568"
+    ]
+}

@@ -1,0 +1,1353 @@
+{
+    "id": "DW_18352289",
+    "content": "Nigeria analyst predicts security revamp after Buhari victory\nAs the vote count progressed in Nigeria on Tuesday, victory by former military ruler Muhammadu Buhari looked increasingly certain. To find out about the implications of this, DW spoke to analyst Manji Cheto.\nDW: How do you think Nigeria is likely to change under Muhammadu Buhari? Manji Cheto: Nobody has a definitive answer as to what his government could be like but there are clearly important clues that we could take from his previous two and a half year stint as military leader. I think the most symbolic thing about his victory is that he has a reputation as one of the most incorruptible leaders in Nigeria. In a country where that reputation is not believed to exist for people occupying a senior position, that is quite significant. Now it is left to be seen whether or not that is going to have a positive impact on his government and the people who take on the positions in his government. Again, if you look at what is happening with Nigeria's key economic indices – Nigerian stock, Nigerian bond yields – a lot of those things have decelerated quite rapidly and I think that is a reflection of waning investor confidence in the country. With Nigeria now demonstrating to the world that it is capable of changing a government and [bringing in] a guy who has a positive reputation, that is quite significant. That investor boost could actually see more money being pumped into the Nigerian economy. Do you see any immediate change forthcoming in the way Nigeria is handling the Boko Haram insurgency? I don't think so. I think one of the things we can definitely expect before we talk about a change of strategy is a change in security personnel. Buhari having been a military leader, he understands Nigeria's military, its weaknesses and strengths, and he is certainly going to want to have people who he can trust and who he can work with. So I think the most immediate change we are going to see is a change in the security apparatus. Buhari is a former military ruler, as you said, but he says he is now a ‘converted democrat.' How much doubt is there in Nigeria about his commitment to democratic governance? You're going to get a fifty-fifty doubt. There are people who are going to be incredibly cynical. That is one of the key challenges that he has, reconciling with the people who feel aggrieved by Jonathan's exit from office. So, yes, I think at the moment there is a fair bit of cynicism on that front. Nigeria is divided into a mainly Muslim north and a mainly Christian south. As a Muslim from the north, will Buhari be able to unite the country behind him? The Muslim north and Christian south dichotomy is far more complex than that. If you look at the south, particularly the southwest, there is a considerable number of Muslims there. And Buhari has allied himself with the southwest where people are Muslims who identify with the Islamic faith, but they don't actively practice Islam. So I think it is far more complex and I think a lot of Nigerians will start to look beyond that to see if he can demonstrate himself to be a true Nigerian president, as opposed to a northern president. I think the fact that he is aligned with the southwest is a key positive development in that respect. What about Nigeria's relations with its neighbors? Do you see this changing under a President Buhari? I don't think that is going to be a priority for the new government. I think the priority will certainly be dealing with the internal challenges and some of the military weaknesses. Once that is addressed I think the relationship with neighbors, which has been a bit tense in recent times over security, will start to improve. The elections are not over. There are gubernatorial and state assembly polls on April 11. How do you see them playing out in the wake of Buhari's victory? The presidential election has been tightly contested so I expect the same to happen. There are obviously going to be a number of key flashpoints. Key battlegrounds will include places like the economically powerful Lagos and Rivers State which is the largest oil producing state. The outcome of those elections is quite significant for whether we can look at the broader electoral process and judge it to be free and fair and quite credible. Manji Cheto is the vice president of Teneo Intelligence, a risk analysis organization in London Interview: Asumpta Lattus",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 47,
+            "end": 53,
+            "text": "Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 94,
+            "end": 101,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 105,
+            "end": 112,
+            "text": "Tuesday",
+            "concept": 4
+        },
+        {
+            "begin": 132,
+            "end": 146,
+            "text": "military ruler",
+            "concept": 5
+        },
+        {
+            "begin": 147,
+            "end": 163,
+            "text": "Muhammadu Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 237,
+            "end": 239,
+            "text": "DW",
+            "concept": 6,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 249,
+            "end": 256,
+            "text": "analyst",
+            "concept": 7
+        },
+        {
+            "begin": 257,
+            "end": 268,
+            "text": "Manji Cheto",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 270,
+            "end": 272,
+            "text": "DW",
+            "concept": 6,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 291,
+            "end": 298,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 325,
+            "end": 341,
+            "text": "Muhammadu Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 343,
+            "end": 354,
+            "text": "Manji Cheto",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 670,
+            "end": 677,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 1010,
+            "end": 1017,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 1043,
+            "end": 1051,
+            "text": "Nigerian",
+            "concept": 8
+        },
+        {
+            "begin": 1059,
+            "end": 1067,
+            "text": "Nigerian",
+            "concept": 8
+        },
+        {
+            "begin": 1219,
+            "end": 1226,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 1456,
+            "end": 1464,
+            "text": "Nigerian",
+            "concept": 8
+        },
+        {
+            "begin": 1529,
+            "end": 1536,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 1553,
+            "end": 1563,
+            "text": "Boko Haram",
+            "concept": 9,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 1722,
+            "end": 1728,
+            "text": "Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1775,
+            "end": 1782,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2013,
+            "end": 2019,
+            "text": "Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2134,
+            "end": 2141,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2491,
+            "end": 2498,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2524,
+            "end": 2530,
+            "text": "Muslim",
+            "concept": 10
+        },
+        {
+            "begin": 2550,
+            "end": 2559,
+            "text": "Christian",
+            "concept": 11
+        },
+        {
+            "begin": 2572,
+            "end": 2578,
+            "text": "Muslim",
+            "concept": 10
+        },
+        {
+            "begin": 2600,
+            "end": 2606,
+            "text": "Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2652,
+            "end": 2658,
+            "text": "Muslim",
+            "concept": 10
+        },
+        {
+            "begin": 2669,
+            "end": 2678,
+            "text": "Christian",
+            "concept": 11
+        },
+        {
+            "begin": 2814,
+            "end": 2821,
+            "text": "Muslims",
+            "concept": 12
+        },
+        {
+            "begin": 2833,
+            "end": 2839,
+            "text": "Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2895,
+            "end": 2902,
+            "text": "Muslims",
+            "concept": 12
+        },
+        {
+            "begin": 2925,
+            "end": 2932,
+            "text": "Islamic",
+            "concept": 0
+        },
+        {
+            "begin": 3035,
+            "end": 3044,
+            "text": "Nigerians",
+            "concept": 13
+        },
+        {
+            "begin": 3126,
+            "end": 3134,
+            "text": "Nigerian",
+            "concept": 8
+        },
+        {
+            "begin": 3295,
+            "end": 3302,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 3368,
+            "end": 3377,
+            "text": "President",
+            "concept": 14
+        },
+        {
+            "begin": 3378,
+            "end": 3384,
+            "text": "Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3793,
+            "end": 3801,
+            "text": "April 11",
+            "concept": 15
+        },
+        {
+            "begin": 3850,
+            "end": 3856,
+            "text": "Buhari",
+            "concept": 2,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4083,
+            "end": 4088,
+            "text": "Lagos",
+            "concept": 16,
+            "candidates": [
+                "Lagos",
+                "Lagos,_Portugal",
+                "Lagos_State",
+                "Lagos_Open_(1976–1991)",
+                "Battle_of_Lagos",
+                "Lagos_Colony",
+                "Panagiotis_Lagos",
+                "Murtala_Muhammed_International_Airport",
+                "Ricardo_Lagos",
+                "Roman_Catholic_Archdiocese_of_Lagos",
+                "Battle_of_Lagos_(1693)",
+                "Lagos,_Pyrénées-Atlantiques",
+                "Timeline_of_Lagos",
+                "Lagos,_Evros",
+                "Lagos_Open_(2000–present)",
+                "History_of_Lagos"
+            ],
+            "scores": [
+                0.8868888348333739,
+                0.05132571150571637,
+                0.02456823157382632,
+                0.00535149598637801,
+                0.00535149598637801,
+                0.004135246898564826,
+                0.0036487472634395522,
+                0.0019459985405010946,
+                0.0019459985405010946,
+                0.0017027487229384578,
+                0.001459498905375821,
+                0.001459498905375821,
+                0.0012162490878131842,
+                0.0012162490878131842,
+                0.0009729992702505473,
+                0.0009729992702505473
+            ]
+        },
+        {
+            "begin": 4093,
+            "end": 4105,
+            "text": "Rivers State",
+            "concept": 17,
+            "candidates": [
+                "Rivers_State",
+                "Nigerian_National_Assembly_delegation_from_Rivers",
+                "List_of_birds_of_Rivers_State"
+            ],
+            "scores": [
+                0.9965156794425087,
+                0.0017421602787456446,
+                0.0017421602787456446
+            ]
+        },
+        {
+            "begin": 4310,
+            "end": 4321,
+            "text": "Manji Cheto",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4347,
+            "end": 4365,
+            "text": "Teneo Intelligence",
+            "concept": 18,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4399,
+            "end": 4405,
+            "text": "London",
+            "concept": 19,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 4406,
+            "end": 4431,
+            "text": "Interview: Asumpta Lattus",
+            "concept": 20
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Islamic",
+            "keyword": false,
+            "count": 1,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Nigeria",
+            "keyword": true,
+            "count": 11,
+            "link": "Nigeria",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Muhammadu Buhari",
+            "keyword": true,
+            "count": 10,
+            "link": "Muhammadu_Buhari",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "meta::redo",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Manji Cheto",
+            "keyword": true,
+            "count": 4,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::20000170",
+                "slot::interviewee",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "military ruler",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "analyst",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Nigerian",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Boko Haram",
+            "keyword": false,
+            "count": 1,
+            "link": "Boko_Haram",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Muslim",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Christian",
+            "keyword": false,
+            "count": 2,
+            "link": "Christianity",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Muslims",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Nigerians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "April 11",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Lagos",
+            "keyword": false,
+            "count": 1,
+            "link": "Lagos_State",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Rivers State",
+            "keyword": false,
+            "count": 1,
+            "link": "Rivers_State",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Teneo Intelligence",
+            "keyword": false,
+            "count": 1,
+            "link": "Teneo",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000280",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Interview: Asumpta Lattus",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 22,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 2,
+            "p": "head_of_state",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "head_of_state-x",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "head_of_state-x",
+            "o": 13
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 18
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 18
+        },
+        {
+            "s": 6,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 16,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 16,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 17,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 17,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 18,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 18,
+            "p": "based_in2",
+            "o": 19
+        },
+        {
+            "s": 19,
+            "p": "in0",
+            "o": 21
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-election",
+            "slots": [
+                {
+                    "name": "candidate",
+                    "value": 2
+                },
+                {
+                    "name": "place",
+                    "value": 1
+                },
+                {
+                    "name": "time",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 3
+                },
+                {
+                    "name": "media",
+                    "value": 6
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000593",
+        "20000598",
+        "20000603"
+    ]
+}

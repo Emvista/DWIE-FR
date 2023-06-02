@@ -1,0 +1,473 @@
+{
+    "id": "DW_19281851",
+    "content": "Stop the nonsense: homeopathy has no place in medicine\nOn Thursday, more than 500 doctors will meet in Bremen for the 165th Annual Congress of Homeopathic Doctors. It’s scandalous that medical professionals still adhere to such superstitions, says DW's Fabian Schmidt.\nHomeopathy is nothing but an obscure mistaken belief. It explains alleged successes in healing patients with a mystic and magic \"memory of water,\" with ominous \"energy\" and \"vibrations.\" This hocus-pocus is no more scientific than Santeria incantations by Haitian voodoo priests. Homeopathy has been clearly proven to be pharmaceutically useless in proper medical trials. Therefore, its only place is in the cabinet of horrors of historical medical and anthropological research institutions. The best would be to store homeopathy in the last corner on some dusty shelf, somewhere hidden far away behind behind Berlin's famous 19th century doctor Rudolf Virchow's pathological collections of jars with diseased body parts and organs. After all, his terrifying exhibits were part of real scientific medical research. They represent the foundation of our modern medicine. Medicine must not be arbitrary Since Virchow researched cells and his contemporary Robert Koch discovered the importance of bacteria a lot has happened: Our medical research today is focusing on the level of molecules. With the decoding of the human genome, medicine has become better and more powerful than ever before. At no point in history have humans better understood how all the various processes in the body influence each other. Never before have we known more about the functions of all those enzymes, hormones and proteins. Today, even the use of custom made molecules for individual treatment is a common practice against some cancers. It's called personalized medicine. Scientific knowledge today is precise, thorough and verifiable. That's why the medical profession must not allow medicine to be devalued by unscientific and ideologically tainted belief-systems from the Napoleonic era. There must be no place for such arbitrariness in this noble scientific discipline. Doctors need to take a stand For the sake of their own reputations, but even more for the protection of patients and customers, the medical professional organizations, universities and the research-based pharmaceutical companies must take a clear stand: homeopathy must be outlawed. It has no place in medical practices, pharmacies or serious research laboratories. The curricula of medical faculties also need to be free of these esoteric teachings. Leave the globuli - the homeopathic tablets - to those who can really use them: to historians, who are researching the errors of ancient medicine, to anthropologists who are looking into creepy superstitious rites or to the incorrigible shamans and druids. At least those self-appointed healers do not have a medical license.",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 58,
+            "end": 66,
+            "text": "Thursday",
+            "concept": 5
+        },
+        {
+            "begin": 103,
+            "end": 109,
+            "text": "Bremen",
+            "concept": 0,
+            "candidates": [
+                "Bremen",
+                "Bremen_(state)",
+                "Archbishopric_of_Bremen",
+                "Bremen_Hauptbahnhof",
+                "Bremen,_Georgia",
+                "Bremen_(aircraft)",
+                "Bremen,_Indiana",
+                "Bremen,_Maine",
+                "SS_Bremen_(1928)",
+                "Bremen_Airport",
+                "Bremen,_Alabama",
+                "SV_Werder_Bremen",
+                "Bremen-Verden",
+                "Bremen,_Ohio",
+                "Bremen_High_School_(Bremen,_Indiana)",
+                "Bremen_Township,_Cook_County,_Illinois"
+            ],
+            "scores": [
+                0.8561356707317073,
+                0.046684451219512195,
+                0.016577743902439025,
+                0.014672256097560975,
+                0.010670731707317074,
+                0.007240853658536586,
+                0.006669207317073171,
+                0.006097560975609756,
+                0.004573170731707317,
+                0.0026676829268292685,
+                0.002096036585365854,
+                0.0019054878048780487,
+                0.001714939024390244,
+                0.001714939024390244,
+                0.001524390243902439,
+                0.001524390243902439
+            ]
+        },
+        {
+            "begin": 118,
+            "end": 162,
+            "text": "165th Annual Congress of Homeopathic Doctors",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 248,
+            "end": 250,
+            "text": "DW",
+            "concept": 6,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 253,
+            "end": 267,
+            "text": "Fabian Schmidt",
+            "concept": 7,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 500,
+            "end": 508,
+            "text": "Santeria",
+            "concept": 2,
+            "candidates": [
+                "Santería",
+                "Santeria_(song)",
+                "Santeria_(album)"
+            ],
+            "scores": [
+                0.918429003021148,
+                0.07250755287009064,
+                0.00906344410876133
+            ]
+        },
+        {
+            "begin": 525,
+            "end": 532,
+            "text": "Haitian",
+            "concept": 8
+        },
+        {
+            "begin": 879,
+            "end": 885,
+            "text": "Berlin",
+            "concept": 9,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 908,
+            "end": 914,
+            "text": "doctor",
+            "concept": 10
+        },
+        {
+            "begin": 915,
+            "end": 929,
+            "text": "Rudolf Virchow",
+            "concept": 3,
+            "candidates": [
+                "Rudolf_Virchow"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1175,
+            "end": 1182,
+            "text": "Virchow",
+            "concept": 3,
+            "candidates": [
+                "Rudolf_Virchow",
+                "Virchow_(crater)"
+            ],
+            "scores": [
+                0.9545454545454546,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 1221,
+            "end": 1232,
+            "text": "Robert Koch",
+            "concept": 4,
+            "candidates": [
+                "Robert_Koch",
+                "Robert_Koch_(film)",
+                "Robert_Koch_(footballer)"
+            ],
+            "scores": [
+                0.8673469387755102,
+                0.11734693877551021,
+                0.015306122448979591
+            ]
+        },
+        {
+            "begin": 2024,
+            "end": 2034,
+            "text": "Napoleonic",
+            "concept": 11,
+            "candidates": [
+                "Napoleon",
+                "Napoleonic_Wars",
+                "Napoleonic_era",
+                "First_French_Empire",
+                "Napoleonic_Code",
+                "Kingdom_of_Italy_(Napoleonic)",
+                "Napoleonic_(Fabergé_egg)",
+                "Grande_Armée",
+                "Kingdom_of_Spain_under_Joseph_Bonaparte",
+                "French_invasion_of_Russia",
+                "Nobility_of_the_First_French_Empire",
+                "Napoleone",
+                "Bonapartism",
+                "Napoleon_III",
+                "French_and_British_interregnum_in_the_Dutch_East_Indies",
+                "Napoleonic_weaponry_and_warfare"
+            ],
+            "scores": [
+                0.819377990430622,
+                0.1255980861244019,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.005980861244019139,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Bremen",
+            "keyword": true,
+            "count": 1,
+            "link": "Bremen",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "165th Annual Congress of Homeopathic Doctors",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Santeria",
+            "keyword": true,
+            "count": 1,
+            "link": "Santería",
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::religion",
+                "type::entity",
+                "type::misc",
+                "type::religion"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Rudolf Virchow",
+            "keyword": true,
+            "count": 2,
+            "link": "Rudolf_Virchow",
+            "tags": [
+                "gender::male",
+                "iptc::07000000",
+                "slot::keyword",
+                "topic::health",
+                "type::entity",
+                "type::health_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Robert Koch",
+            "keyword": true,
+            "count": 1,
+            "link": "Robert_Koch",
+            "tags": [
+                "gender::male",
+                "iptc::07000000",
+                "slot::keyword",
+                "topic::health",
+                "type::entity",
+                "type::health_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "DW",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Fabian Schmidt",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Haitian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 1,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "doctor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Napoleonic",
+            "keyword": false,
+            "count": 1,
+            "link": "Napoleonic_era",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 12,
+            "keyword": false,
+            "count": 0,
+            "link": "Haiti",
+            "tags": []
+        },
+        {
+            "concept": 13,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 13
+        },
+        {
+            "s": 6,
+            "p": "based_in0",
+            "o": 13
+        },
+        {
+            "s": 7,
+            "p": "member_of",
+            "o": 6
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 9,
+            "p": "in0",
+            "o": 13
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "13000000",
+        "20000710",
+        "20000713"
+    ]
+}
