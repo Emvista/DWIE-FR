@@ -31,7 +31,7 @@ cd preprocessing
 ```
 conda env create --file environment.yml
 ```
-#### Run preprocessing
+#### Run Training
 ```
 cd experiments
 ./scripts/run_onto_dwie.sh
